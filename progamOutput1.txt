@@ -1,0 +1,6309 @@
+Rom
+	Romae	Praef.
+	Romam	1.1.3
+	Romanum	1.1.14
+	Romanarum	1.1.15
+	Romanis	1.1.18
+	Romae	1.1.20
+	Romam	1.1.21
+	Romani	1.1.ext.4
+	Romanum	1.5.1
+	Romani	1.5.2
+	Romanis	1.6.3
+	Romani	1.6.3
+	Roma'	1.6.5
+	Romani	1.6.6
+	Romanorum	1.6.6
+	Romanum	1.6.6
+	Romani	1.6.11
+	Romanae	1.6.11
+	Romana	1.6.ext.1
+	Romani	1.7.1
+	Romanae	1.7.6
+	Romani	1.7.8
+	Romano	1.7.ext.1
+	Romanarum	1.8.1
+	Romani	1.8.1
+	Romanorum	1.8.2
+	Romanam	1.8.2
+	Romam	1.8.2
+	Romanis	1.8.5
+	Romanus	1.8.5
+	Romanorum	1.8.6
+	Romanis	1.8.6
+	Romanis	1.8.6
+	Romane	1.8.10
+	Romuli	1.8.11
+	Romana	1.8.ext.19
+exter
+	exterarumque	Praef.
+	extis	1.1.1
+	exterruit	1.6.5
+	extis	1.6.8
+	extis	1.6.13
+	externa	1.6.ext.1
+	externa	1.8.ext.2
+genti
+	gentium	Praef.
+	gentis	1.1.11
+	genus	1.1.13
+	gentem	1.1.15
+	genti	1.1.17
+	gentis	1.1.ext.2
+	genus	1.6.9
+	gentes	1.7.ext.5
+	gentis	1.8.6
+	genus	1.8.ext.9
+fac
+	facta	Praef.
+	fuisse	1.1.12
+	facto	1.1.12
+	faceret	1.1.16
+	facie	1.1.16
+	factum	1.1.16
+	factum	1.1.20
+	facinus	1.1.ext.1
+	fano	1.1.ext.2
+	factum	1.1.ext.2
+	fano	1.1.ext.3
+	facere	1.6.7
+	facit	1.6.8
+	factum	1.6.8
+	fauisse	1.6.12
+	fata	1.7.3
+	factum	1.7.5
+	factum	1.7.5
+	fato	1.7.6
+	faciem	1.7.8
+	fato	1.7.ext.10
+	factos	1.8.1
+	factum	1.8.6
+	factum	1.8.7
+	fata	1.8.10
+	fato	1.8.12
+	fuisse	1.8.12
+	facit	1.8.ext.1
+	fato	1.8.ext.5
+	fuisse	1.8.ext.12
+	facunde	1.8.ext.19
+	fuisse	1.8.ext.19
+sim
+	simul	Praef.
+	suaque	1.1.8
+	simul	1.1.9
+	sibi	1.1.14
+	sibi	1.1.ext.4
+	sibi	1.5.4
+	sibi	1.5.ext.2
+	sine	1.6.7
+	sine	1.6.9
+	sibi	1.6.9
+	sinu	1.7.2
+	sibi	1.7.2
+	sibi	1.7.4
+	sibi	1.7.5
+	sibi	1.7.6
+	sibi	1.7.ext.1
+	sile	1.7.ext.1
+	sibi	1.7.ext.2
+	sibi	1.7.ext.4
+	sibi	1.7.ext.10
+	sibi	1.8.1
+	sine	1.8.2
+	sine	1.8.2
+	sine	1.8.8
+	sibi	1.8.10
+	sine	1.8.ext.10
+	simul	1.8.ext.11
+	sinu	1.8.ext.17
+dic
+	dicta	Praef.
+	datur	1.1.1
+	dicunt	1.1.1
+	dicta	1.1.2
+	diis	1.1.8
+	dicari	1.1.8
+	diis	1.1.8
+	diem	1.1.15
+	diro	1.1.15
+	dictis	1.1.ext.3
+	dicebat	1.1.ext.3
+	diis	1.5.1
+	dicto	1.5.3
+	dictum	1.5.4
+	diro	1.5.6
+	dicti	1.5.8
+	dies	1.6.5
+	dixisse	1.6.5
+	diei	1.6.12
+	diue	1.6.13
+	ditissimum	1.6.ext.2
+	diui	1.7.1
+	dies	1.7.1
+	diui	1.7.2
+	diis	1.7.3
+	diceret	1.7.4
+	diceret	1.7.5
+	dicam	1.7.8
+	dies	1.8.2
+	dicatum	1.8.2
+	dicti	1.8.5
+	dicuntur	1.8.7
+	dictis	1.8.ext.8
+	dicere	1.8.ext.10
+memora
+	memoratu	Praef.
+	memoria	1.1.10
+	memorabile	1.1.11
+	memoria	1.1.16
+	memorabile	1.5.3
+	memoria	1.7.1
+	memoria	1.8.6
+	memoria	1.8.ext.2
+	memoria	1.8.ext.18
+dig
+	digna	Praef.
+	digna	1.1.6
+	dignus	1.5.7
+	dignum	1.5.9
+	digesta	1.8.5
+ap
+	apud	Praef.
+	apex	1.1.5
+	apud	1.1.12
+	apud	1.1.16
+	apud	1.1.19
+	aptius	1.1.ext.3
+	apud	1.6.6
+	apium	1.6.12
+	apes	1.6.ext.3
+	apes	1.6.ext.3
+	aperte	1.7.6
+	apud	1.7.7
+	aper	1.7.ext.4
+	apud	1.8.1
+	apud	1.8.ext.7
+	apte	1.8.ext.17
+	aperto	1.8.ext.18
+	apud	1.8.ext.19
+ali
+	alios	Praef.
+	aliquo	Praef.
+	aliquid	1.1.1
+	alii	1.1.1
+	aliqua	1.1.12
+	aliquot	1.1.16
+	alienum	1.1.ext.3
+	aliter	1.1.ext.4
+	aliquo	1.5.init.
+	aliquo	1.5.2
+	aliqua	1.5.4
+	aliquid	1.5.6
+	aliquot	1.6.5
+	alio	1.6.5
+	alium	1.6.5
+	aliquid	1.6.ext.1
+	aliud	1.7.1
+	aliud	1.7.2
+	aliud	1.7.2
+	aliquo	1.7.4
+	aliter	1.7.5
+	aliquod	1.7.ext.6
+	aliter	1.8.2
+	aliena	1.8.6
+	alto	1.8.ext.18
+lati
+	latius	Praef.
+	labi	1.8.2
+diffu
+	diffusa	Praef.
+	diffusae	1.8.2
+su
+	sunt	Praef.
+	sumere	Praef.
+	sunt	Praef.
+	summum	1.1.2
+	sunt	1.1.4
+	subito	1.1.7
+	suus	1.1.8
+	summae	1.1.9
+	suis	1.1.10
+	summa	1.1.10
+	suae	1.1.13
+	suis	1.1.14
+	sunt	1.1.14
+	suos	1.1.15
+	sunt	1.1.15
+	suae	1.1.17
+	super	1.1.17
+	sunt	1.1.17
+	suamque	1.1.19
+	summam	1.1.20
+	summam	1.1.21
+	suae	1.1.ext.2
+	sumere	1.1.ext.3
+	suis	1.1.ext.4
+	summi	1.5.1
+	subito	1.5.2
+	suam	1.5.3
+	suum	1.5.7
+	suis	1.5.ext.2
+	suum	1.5.ext.2
+	subito	1.6.3
+	subito	1.6.4
+	sunt	1.6.5
+	super	1.6.6
+	sunt	1.6.6
+	summaque	1.6.7
+	summo	1.6.9
+	suum	1.6.10
+	subita	1.6.12
+	sunt	1.6.12
+	suum	1.6.ext.1
+	summae	1.6.ext.3
+	supra	1.7.1
+	sunt	1.7.1
+	sunt	1.7.2
+	suis	1.7.2
+	superque	1.7.3
+	suum	1.7.4
+	summum	1.7.4
+	subita	1.7.4
+	suam	1.7.5
+	suas	1.7.6
+	suis	1.7.ext.1
+	suae	1.7.ext.2
+	suum	1.7.ext.2
+	sunt	1.7.ext.3
+	suam	1.7.ext.3
+	sunt	1.7.ext.4
+	suem	1.7.ext.4
+	sunt	1.7.ext.4
+	suam	1.7.ext.5
+	suae	1.7.ext.5
+	subita	1.7.ext.8
+	suum	1.7.ext.9
+	suae	1.7.ext.9
+	suum	1.7.ext.10
+	suae	1.7.ext.10
+	suum	1.7.ext.10
+	suum	1.8.1
+	sunt	1.8.1
+	summam	1.8.2
+	subito	1.8.5
+	suorum	1.8.6
+	sunt	1.8.6
+	suam	1.8.7
+	super	1.8.12
+	sumus	1.8.ext.2
+	suae	1.8.ext.3
+	suae	1.8.ext.5
+	suam	1.8.ext.9
+	sunt	1.8.ext.12
+	suis	1.8.ext.18
+	suam	1.8.ext.18
+	supra	1.8.ext.19
+qu
+	quam	Praef.
+	quis	Praef.
+	quis	Praef.
+	quem	Praef.
+	quibus	Praef.
+	quorum	Praef.
+	quam	1.1.1
+	quod	1.1.2
+	quibus	1.1.3
+	quae	1.1.3
+	quod	1.1.6
+	quia	1.1.6
+	quadam	1.1.6
+	quae	1.1.6
+	quem	1.1.7
+	quoque	1.1.8
+	quia	1.1.8
+	quid	1.1.8
+	quibus	1.1.9
+	quoque	1.1.10
+	quam	1.1.10
+	quia	1.1.10
+	quorum	1.1.10
+	quidem	1.1.12
+	quarum	1.1.12
+	quia	1.1.12
+	quod	1.1.13
+	quidem	1.1.13
+	quia	1.1.13
+	quae	1.1.14
+	quidem	1.1.14
+	quam	1.1.14
+	quamque	1.1.14
+	quia	1.1.14
+	quia	1.1.15
+	quidem	1.1.15
+	quae	1.1.15
+	quidem	1.1.15
+	quod	1.1.16
+	quod	1.1.16
+	quoque	1.1.17
+	quem	1.1.17
+	quoque	1.1.19
+	quem	1.1.19
+	quam	1.1.19
+	quod	1.1.20
+	quam	1.1.20
+	quin	1.1.20
+	quam	1.1.21
+	quidem	1.1.21
+	quod	1.1.ext.1
+	quod	1.1.ext.1
+	quibus	1.1.ext.1
+	quam	1.1.ext.2
+	quid	1.1.ext.3
+	quot	1.1.ext.3
+	quod	1.1.ext.3
+	quodque	1.1.ext.3
+	quae	1.1.ext.3
+	quibus	1.1.ext.3
+	quas	1.1.ext.3
+	quam	1.1.ext.4
+	quam	1.1.ext.4
+	quam	1.5.1
+	quod	1.5.2
+	quod	1.5.3
+	quam	1.5.3
+	quae	1.5.3
+	quid	1.5.3
+	quae	1.5.3
+	quem	1.5.3
+	quasi	1.5.3
+	quodam	1.5.4
+	quod	1.5.4
+	quod	1.5.5
+	quae	1.5.5
+	quod	1.5.6
+	quae	1.5.6
+	quae	1.5.6
+	quem	1.5.6
+	quidem	1.5.7
+	quem	1.5.8
+	quam	1.5.8
+	quoque	1.5.9
+	quam	1.5.ext.1
+	quidem	1.5.ext.2
+	quod	1.5.ext.2
+	quod	1.5.ext.2
+	quoque	1.6.1
+	quae	1.6.1
+	quod	1.6.1
+	quae	1.6.2
+	quos	1.6.2
+	quam	1.6.3
+	quod	1.6.3
+	quam	1.6.3
+	quia	1.6.3
+	quod	1.6.4
+	quae	1.6.4
+	quae	1.6.5
+	quoque	1.6.5
+	quarum	1.6.5
+	quam	1.6.8
+	quoque	1.6.8
+	quod	1.6.8
+	quae	1.6.9
+	quibus	1.6.9
+	quia	1.6.9
+	quid	1.6.9
+	quem	1.6.10
+	quidem	1.6.11
+	quod	1.6.11
+	quae	1.6.12
+	quibus	1.6.12
+	quam	1.6.13
+	quod	1.6.13
+	quae	1.6.ext.1
+	quem	1.6.ext.1
+	quod	1.6.ext.1
+	quidem	1.6.ext.3
+	quam	1.7.1
+	quies	1.7.1
+	quem	1.7.1
+	quam	1.7.1
+	quam	1.7.1
+	quod	1.7.1
+	quid	1.7.1
+	quam	1.7.1
+	quam	1.7.2
+	quiete	1.7.2
+	quod	1.7.3
+	quae	1.7.3
+	quidam	1.7.4
+	quam	1.7.4
+	quiete	1.7.4
+	quae	1.7.4
+	quidem	1.7.5
+	quadam	1.7.5
+	quid	1.7.5
+	quod	1.7.5
+	quam	1.7.6
+	quod	1.7.7
+	quibus	1.7.7
+	quieti	1.7.7
+	quoque	1.7.ext.1
+	quies	1.7.ext.1
+	quid	1.7.ext.1
+	quam	1.7.ext.2
+	quod	1.7.ext.3
+	quam	1.7.ext.3
+	quam	1.7.ext.3
+	quae	1.7.ext.4
+	quoque	1.7.ext.4
+	quidem	1.7.ext.4
+	quod	1.7.ext.4
+	quidem	1.7.ext.4
+	quamque	1.7.ext.4
+	quidem	1.7.ext.5
+	quod	1.7.ext.5
+	quiete	1.7.ext.5
+	quia	1.7.ext.5
+	quod	1.7.ext.6
+	quem	1.7.ext.6
+	quiete	1.7.ext.6
+	quae	1.7.ext.7
+	quam	1.7.ext.8
+	quoque	1.7.ext.9
+	quorum	1.7.ext.10
+	quod	1.7.ext.10
+	quiete	1.7.ext.10
+	quae	1.8.init.
+	quia	1.8.init.
+	quorum	1.8.init.
+	quod	1.8.1
+	quoque	1.8.2
+	quam	1.8.2
+	quae	1.8.2
+	quod	1.8.2
+	quorum	1.8.2
+	quidem	1.8.2
+	quem	1.8.2
+	quibus	1.8.2
+	quod	1.8.2
+	quorum	1.8.2
+	quod	1.8.4
+	quae	1.8.5
+	quinque	1.8.6
+	quorum	1.8.6
+	quoque	1.8.6
+	quod	1.8.7
+	quam	1.8.7
+	quia	1.8.7
+	quam	1.8.7
+	quia	1.8.7
+	quem	1.8.8
+	quidem	1.8.8
+	quod	1.8.9
+	quidem	1.8.10
+	quae	1.8.10
+	quod	1.8.11
+	quod	1.8.11
+	quod	1.8.11
+	quoque	1.8.12
+	quem	1.8.ext.1
+	quam	1.8.ext.1
+	quidam	1.8.ext.2
+	quibus	1.8.ext.2
+	quasi	1.8.ext.2
+	quam	1.8.ext.2
+	quam	1.8.ext.4
+	quoque	1.8.ext.5
+	quod	1.8.ext.5
+	quam	1.8.ext.5
+	quae	1.8.ext.5
+	quoque	1.8.ext.7
+	quod	1.8.ext.7
+	quos	1.8.ext.7
+	quid	1.8.ext.7
+	quam	1.8.ext.7
+	quis	1.8.ext.8
+	quasi	1.8.ext.8
+	quidem	1.8.ext.10
+	quia	1.8.ext.10
+	quem	1.8.ext.11
+	quidem	1.8.ext.12
+	quia	1.8.ext.12
+	quidem	1.8.ext.14
+	quem	1.8.ext.14
+	quod	1.8.ext.15
+	quis	1.8.ext.17
+	quidem	1.8.ext.18
+	quam	1.8.ext.18
+	quid	1.8.ext.18
+	quas	1.8.ext.18
+	quare	1.8.ext.18
+	quam	1.8.ext.18
+	quia	1.8.ext.19
+	quoque	1.8.ext.19
+cognos
+	cognosci	Praef.
+	cognosci	1.7.2
+possi
+	possint	Praef.
+	posse	1.6.6
+	posset	1.7.3
+	posse	1.7.6
+	posse	1.7.ext.10
+	posse	1.8.2
+	posset	1.8.ext.8
+	possidere	1.8.ext.18
+inlustr
+	inlustribus	Praef.
+	inlustribus	1.1.9
+auctor
+	auctoribus	Praef.
+	auctoritas	1.1.8
+	auctore	1.1.17
+	auctor	1.5.2
+	auctus	1.6.3
+	auctore	1.6.7
+	auctor	1.7.6
+	auctores	1.8.7
+constit
+	constitui	Praef.
+	constitisse	1.1.20
+	constitit	1.6.5
+	constat	1.6.12
+	constat	1.6.ext.1
+	constituens	1.7.ext.3
+	constitit	1.8.4
+	constitit	1.8.12
+	constat	1.8.ext.14
+long
+	longae	Praef.
+	loco	1.1.ext.3
+	longa	1.5.4
+	loco	1.6.11
+	longus	1.7.2
+	loca	1.7.5
+	loco	1.7.8
+	longius	1.7.ext.10
+	loco	1.8.11
+	loco	1.8.ext.17
+lab
+	labor	Praef.
+	labor	1.8.ext.18
+abs
+	absit	Praef.
+	absurde	1.5.ext.1
+	abstulisse	1.6.5
+mi
+	mihi	Praef.
+	miserunt	1.1.1
+	missis	1.1.3
+	mirum	1.1.8
+	minus	1.1.8
+	missus	1.1.14
+	minus	1.1.19
+	miserunt	1.5.ext.1
+	milibus	1.6.2
+	minus	1.6.3
+	miro	1.6.3
+	missi	1.6.3
+	milite	1.6.3
+	mixtas	1.6.5
+	miram	1.6.8
+	minus	1.6.ext.1
+	mihi	1.6.ext.3
+	misero	1.7.8
+	missum	1.7.ext.1
+	mitti	1.7.ext.4
+	missam	1.7.ext.4
+	missis	1.8.2
+	mitibus	1.8.2
+	minus	1.8.2
+	missa	1.8.5
+	miram	1.8.5
+	milia	1.8.6
+	minaci	1.8.8
+	missae	1.8.9
+	minus	1.8.ext.1
+	mira	1.8.ext.1
+	miseri	1.8.ext.11
+	missum	1.8.ext.19
+cunc
+	cuncta	Praef.
+	cura	Praef.
+	cura	1.1.8
+	cura	1.1.12
+	cunctis	1.5.8
+	cunctorum	1.6.ext.2
+	cunis	1.6.ext.3
+	cura	1.7.ext.4
+	cunctas	1.7.ext.5
+	cura	1.8.2
+	cunas	1.8.ext.5
+	cuncta	1.8.ext.18
+cupi
+	cupido	Praef.
+	cupiens	1.8.10
+	cupidus	1.8.ext.5
+incess
+	incessit	Praef.
+	incessit	1.8.5
+en
+	enim	Praef.
+	enim	Praef.
+	enim	1.1.3
+	enim	1.1.8
+	enim	1.1.10
+	easque	1.1.10
+	enim	1.1.10
+	enim	1.1.12
+	eorum	1.1.14
+	eorum	1.1.14
+	eorum	1.1.15
+	eorum	1.1.17
+	enim	1.1.20
+	enim	1.1.21
+	enim	1.1.ext.1
+	essent	1.1.ext.2
+	enim	1.1.ext.3
+	eorum	1.1.ext.3
+	enim	1.1.ext.3
+	enim	1.5.1
+	enim	1.5.2
+	enim	1.5.5
+	enim	1.5.6
+	eorum	1.5.ext.2
+	enim	1.5.ext.2
+	enim	1.6.3
+	enim	1.6.3
+	enim	1.6.8
+	enim	1.6.10
+	enatam	1.6.12
+	enim	1.6.13
+	eorum	1.6.13
+	enim	1.6.ext.3
+	enim	1.7.2
+	enim	1.7.3
+	enim	1.7.6
+	enim	1.7.8
+	enim	1.7.ext.1
+	enim	1.7.ext.2
+	enim	1.7.ext.3
+	enim	1.7.ext.4
+	enatam	1.7.ext.5
+	enim	1.7.ext.5
+	enim	1.7.ext.9
+	enim	1.7.ext.10
+	enim	1.7.ext.10
+	eorum	1.8.1
+	eorum	1.8.2
+	enim	1.8.6
+	enim	1.8.8
+	enim	1.8.8
+	enim	1.8.10
+	eorum	1.8.ext.2
+	enim	1.8.ext.3
+	enim	1.8.ext.5
+	enim	1.8.ext.7
+	eumque	1.8.ext.9
+	enim	1.8.ext.19
+omn
+	omnis	Praef.
+	omni	1.1.7
+	omnia	1.1.9
+	omnibus	1.1.11
+	omnes	1.1.14
+	omnes	1.1.17
+	omen	1.5.1
+	omen	1.5.2
+	omen	1.5.3
+	omen	1.5.4
+	omen	1.5.9
+	omnibus	1.5.ext.2
+	omen	1.6.10
+	omniaque	1.6.12
+	omnium	1.6.ext.2
+	omni	1.6.ext.3
+	omnibus	1.7.2
+	omnium	1.7.4
+	omne	1.7.ext.1
+	omnis	1.7.ext.4
+	omnes	1.7.ext.4
+	omnes	1.7.ext.5
+	omnium	1.7.ext.6
+	omnium	1.8.2
+	omnia	1.8.ext.2
+	omnes	1.8.ext.7
+	omnino	1.8.ext.8
+	omnibus	1.8.ext.16
+	omnis	1.8.ext.18
+	omnia	1.8.ext.18
+	omnes	1.8.ext.18
+	omnibusque	1.8.ext.19
+ae
+	aeui	Praef.
+	aedibus	1.1.8
+	aedem	1.1.20
+	aede	1.6.12
+	aede	1.7.5
+	aedis	1.8.1
+	aedis	1.8.2
+	aede	1.8.4
+	aedis	1.8.11
+	aede	1.8.11
+	aequat	1.8.ext.11
+ges
+	gesta	Praef.
+	gessit	1.8.5
+modi
+	modico	Praef.
+	more	1.1.1
+	more	1.1.11
+	more	1.1.ext.3
+	motu	1.5.init.
+	modo	1.5.1
+	more	1.5.4
+	mora	1.5.4
+	modum	1.6.1
+	mora	1.6.3
+	modum	1.6.3
+	modum	1.6.5
+	modicae	1.7.ext.5
+	modum	1.8.2
+	modum	1.8.5
+	motu	1.8.7
+	modo	1.8.ext.2
+	modo	1.8.ext.4
+	mors	1.8.ext.10
+	modo	1.8.ext.16
+uolumin
+	uoluminum	Praef.
+	uoluminibus	1.8.ext.19
+nume
+	numero	Praef.
+	numero	1.1.1
+	numen	1.1.7
+	numero	1.1.17
+	numero	1.6.2
+	numerum	1.6.5
+	numerum	1.6.7
+	numero	1.6.7
+	numen	1.6.12
+	numero	1.6.13
+	nube	1.8.init.
+	numen	1.8.2
+	numen	1.8.2
+	nunc	1.8.2
+	numero	1.8.5
+	nunc	1.8.7
+	numen	1.8.ext.8
+	numero	1.8.ext.8
+conprehend
+	conprehenderit	Praef.
+	conprehendisse	1.7.5
+	conprehendit	1.7.ext.10
+comp
+	compos	Praef.
+	comperit	1.1.ext.4
+	comes	1.8.ext.13
+ment
+	mentis	Praef.
+	mente	1.1.20
+	mente	1.7.7
+	metu	1.7.8
+	metu	1.7.ext.4
+	metu	1.7.ext.4
+	metu	1.8.2
+	mentione	1.8.8
+	mentio	1.8.ext.19
+domestic
+	domesticae	Praef.
+	domesticorum	1.6.1
+	domestici	1.6.3
+	domestica	1.6.ext.1
+	domesticum	1.7.2
+	domesticis	1.8.12
+histori
+	historiae	Praef.
+	historiae	1.7.6
+seri
+	seriem	Praef.
+	sene	1.1.14
+	sese	1.1.14
+	sede	1.5.4
+	sese	1.5.ext.2
+	serua	1.6.1
+	sede	1.6.6
+	sese	1.7.3
+	sede	1.8.2
+feli
+	felici	Praef.
+	felicis	1.6.2
+	fecisse	1.7.2
+	fere	1.8.ext.1
+	felicis	1.8.ext.11
+superi
+	superiorum	Praef.
+	superior	1.7.ext.5
+	superioribus	1.8.5
+	superiore	1.8.ext.12
+praestantio
+	praestantiore	Praef.
+	praestantiorem	1.7.ext.4
+traditur
+	traditurum	Praef.
+	traditum	1.6.11
+ig
+	igitur	Praef.
+	ignis	1.1.6
+	igne	1.1.7
+	ignis	1.1.7
+	igitur	1.1.8
+	igni	1.1.12
+	itaque	1.1.15
+	igitur	1.5.3
+	itaque	1.6.12
+	igitur	1.6.ext.1
+	itaque	1.7.7
+	itaque	1.7.ext.4
+	igitur	1.7.ext.8
+	itaque	1.8.2
+	iamque	1.8.2
+	itaque	1.8.6
+	igitur	1.8.10
+	ignis	1.8.12
+	itaque	1.8.ext.11
+hu
+	huic	Praef.
+	huius	1.1.9
+	humile	1.1.17
+	humi	1.6.5
+	humi	1.6.6
+	huius	1.6.6
+	humi	1.6.10
+	humana	1.6.11
+	humani	1.7.ext.1
+	hunc	1.7.ext.6
+	humanissimum	1.7.ext.10
+	huic	1.8.2
+	humano	1.8.2
+	hunc	1.8.5
+	humana	1.8.7
+	humano	1.8.8
+	huic	1.8.ext.8
+coep
+	coepto	Praef.
+	coepto	1.1.10
+	coepisset	1.7.3
+	coepit	1.8.2
+	coepit	1.8.6
+	coela	1.8.10
+pen
+	penes	Praef.
+	parum	1.1.4
+	parum	1.1.6
+	penates	1.1.15
+	pensat	1.1.ext.3
+	perisse	1.5.3
+	parum	1.6.4
+	parum	1.6.8
+	penitus	1.8.1
+	perque	1.8.2
+	parum	1.8.8
+	penes	1.8.ext.18
+homin
+	hominum	Praef.
+	hominum	1.1.12
+	homine	1.6.8
+	hominum	1.6.13
+	homini	1.7.4
+	hominem	1.7.7
+	hominum	1.7.ext.3
+	hominum	1.8.1
+	hominis	1.8.10
+	hominis	1.8.ext.2
+	hominem	1.8.ext.5
+	homine	1.8.ext.18
+	homines	1.8.ext.18
+de
+	deorumque	Praef.
+	deos	Praef.
+	deorum	Praef.
+	decem	1.1.1
+	deae	1.1.1
+	deum	1.1.1
+	deorum	1.1.4
+	deorum	1.1.8
+	deinde	1.1.8
+	decus	1.1.9
+	dedit	1.1.11
+	deorum	1.1.12
+	dedisset	1.1.13
+	deorum	1.1.13
+	deos	1.1.14
+	deos	1.1.15
+	deus	1.1.19
+	deae	1.1.ext.1
+	dentes	1.1.ext.2
+	deae	1.1.ext.2
+	demi	1.1.ext.3
+	deorum	1.1.ext.3
+	debita	1.1.ext.3
+	decus	1.5.1
+	deorum	1.5.2
+	deorum	1.5.5
+	deus	1.5.7
+	deorum	1.5.8
+	debita	1.6.1
+	decidisse	1.6.5
+	deinde	1.6.8
+	deorum	1.6.9
+	demum	1.6.10
+	decus	1.6.11
+	deorum	1.6.11
+	deum	1.6.12
+	deinde	1.6.13
+	deorum	1.6.13
+	deinde	1.6.ext.2
+	deorum	1.6.ext.2
+	dearum	1.6.ext.3
+	decus	1.7.2
+	deberi	1.7.3
+	deorum	1.7.3
+	demum	1.7.4
+	deinde	1.7.5
+	deinde	1.7.7
+	dedit	1.7.7
+	deinde	1.7.8
+	deinde	1.7.ext.1
+	deinde	1.7.ext.2
+	deinde	1.7.ext.4
+	dedit	1.7.ext.4
+	dentis	1.7.ext.4
+	deos	1.7.ext.4
+	decus	1.7.ext.5
+	deorum	1.7.ext.6
+	deinde	1.7.ext.6
+	dedit	1.7.ext.6
+	deinde	1.7.ext.10
+	deorum	1.8.2
+	dextro	1.8.5
+	deinde	1.8.6
+	deos	1.8.7
+	deorum	1.8.7
+	dedit	1.8.8
+	deum	1.8.8
+	deusto	1.8.11
+	deum	1.8.11
+	deorum	1.8.ext.8
+	delusa	1.8.ext.8
+	deos	1.8.ext.8
+mar
+	maris	Praef.
+	mare	1.1.13
+	mala	1.5.2
+	mare	1.5.5
+	manu	1.6.8
+	mare	1.6.ext.1
+	magi	1.6.ext.1
+	manu	1.7.8
+	manu	1.7.ext.2
+	malo	1.7.ext.4
+	manu	1.8.1
+	mali	1.8.2
+	manu	1.8.7
+	malo	1.8.ext.5
+	mare	1.8.ext.7
+terr
+	terrae	Praef.
+	terram	1.1.12
+	tela	1.5.7
+	territus	1.6.7
+	terra	1.6.10
+	terroribus	1.6.12
+	terram	1.6.ext.1
+	terris	1.7.2
+	terra	1.7.ext.3
+	terris	1.8.2
+	terror	1.8.5
+	terra	1.8.ext.7
+	tela	1.8.ext.18
+regim
+	regimen	Praef.
+	regimen	1.1.9
+	regis	1.1.ext.1
+	regem	1.1.ext.2
+	regis	1.6.1
+	regium	1.6.1
+	regum	1.6.ext.2
+	regis	1.7.ext.4
+	regium	1.7.ext.4
+	regni	1.7.ext.5
+	regem	1.8.1
+	reges	1.8.5
+	regis	1.8.9
+	regem	1.8.ext.8
+	regno	1.8.ext.9
+	regis	1.8.ext.12
+	regis	1.8.ext.13
+	regina	1.8.ext.13
+	regum	1.8.ext.18
+esse
+	esse	Praef.
+	esset	1.1.14
+	esse	1.1.ext.3
+	esse	1.1.ext.3
+	esse	1.1.ext.3
+	esset	1.5.2
+	esset	1.5.3
+	esset	1.5.4
+	esset	1.5.6
+	esset	1.6.7
+	esset	1.7.4
+	esse	1.7.5
+	esset	1.7.7
+	esset	1.7.ext.1
+	esset	1.7.ext.2
+	esse	1.7.ext.2
+	esset	1.7.ext.4
+	esset	1.7.ext.6
+	esse	1.7.ext.6
+	esse	1.7.ext.6
+	esset	1.8.2
+	est'	1.8.8
+	esset	1.8.ext.1
+	esset	1.8.ext.8
+	esse	1.8.ext.14
+uolu
+	uoluit	Praef.
+	uoluerunt	1.1.1
+	uoto	1.1.1
+	uota	1.1.1
+	uoluit	1.1.9
+	uoce	1.5.1
+	uoluisse	1.5.2
+	uoluit	1.5.8
+	uoluisse	1.6.12
+	uolunt	1.6.13
+	uoluerunt	1.7.2
+	uoluit	1.7.8
+	uoluisset	1.7.ext.2
+	uoluit	1.7.ext.4
+	uoce	1.8.2
+	uoce	1.8.6
+	uoce	1.8.7
+	uoce	1.8.8
+	uoluerit	1.8.ext.18
+ce
+	certissima	Praef.
+	cetera	Praef.
+	cessit	1.1.2
+	cellam	1.1.8
+	certis	1.1.8
+	certam	1.5.3
+	cedo'	1.5.4
+	certi	1.5.4
+	ceperunt	1.6.2
+	cepit	1.6.4
+	cenam	1.6.ext.1
+	certis	1.7.1
+	certum	1.7.3
+	certus	1.7.6
+	certo	1.7.8
+	certae	1.7.ext.1
+	cetera	1.7.ext.1
+	certo	1.7.ext.7
+	celeri	1.7.ext.10
+	cetera	1.8.6
+	certae	1.8.10
+	cetera	1.8.ext.2
+	cecinisse	1.8.ext.8
+	certa	1.8.ext.14
+	cepissent	1.8.ext.15
+	cumque	1.8.ext.16
+	certo	1.8.ext.16
+	centum	1.8.ext.19
+sal
+	salus	Praef.
+	saluti	1.5.5
+	salutem	1.5.6
+	salutem	1.6.8
+	saltem	1.7.ext.10
+	salubre	1.8.2
+	salus	1.8.ext.7
+	saxo	1.8.ext.8
+	salutem	1.8.ext.9
+patri
+	patriae	Praef.
+	patre	1.1.9
+	patribus	1.1.ext.1
+	patrem	1.1.ext.3
+	patriae	1.1.ext.4
+	patribus	1.5.1
+	patriae	1.5.2
+	patriae	1.6.9
+	patris	1.7.2
+	patrem	1.7.2
+	patriae	1.7.3
+	pater	1.7.4
+	patria	1.7.ext.4
+	patre	1.7.ext.4
+	patre	1.7.ext.4
+	patriae	1.8.2
+	patrem	1.8.6
+	patriae	1.8.ext.5
+	patre	1.8.ext.10
+	pater	1.8.ext.12
+	patris	1.8.ext.13
+Caes
+	Caesar	Praef.
+	Caesares	Praef.
+	Caere	1.1.10
+	Caesaris	1.1.19
+	Caesare	1.5.6
+	Caesare	1.5.7
+	Caesare	1.6.12
+	Caesaris	1.6.12
+	Caesaris	1.6.12
+	Caesar	1.7.1
+	Caesar	1.7.7
+	Caesarem	1.8.8
+	Caesaris	1.8.10
+inuo
+	inuoco	Praef.
+	inde	1.1.1
+	inde	1.1.10
+	inde	1.7.4
+	inde	1.7.8
+	inde	1.7.ext.3
+	inuoluta	1.8.init.
+	inde	1.8.2
+	inde	1.8.2
+	inde	1.8.2
+	inde	1.8.6
+	inde	1.8.7
+	inde	1.8.ext.1
+	inde	1.8.ext.8
+	inde	1.8.ext.19
+cui
+	cuius	Praef.
+	cuius	1.1.20
+	cuius	1.1.ext.2
+	cuius	1.6.3
+	cuius	1.6.ext.2
+	cuius	1.7.3
+	cuius	1.7.8
+	cuius	1.7.ext.1
+	cuius	1.7.ext.1
+	cuius	1.7.ext.3
+	cuius	1.7.ext.5
+	cuius	1.8.5
+	cuius	1.8.ext.7
+	cuius	1.8.ext.8
+	cuius	1.8.ext.8
+caeles
+	caelesti	Praef.
+	caelestibus	1.1.15
+	caelestibus	1.6.3
+	caelestibus	1.6.11
+	caelestium	1.6.12
+	caelesti	1.6.ext.1
+	caelesti	1.7.1
+	caelum	1.7.2
+	caelestium	1.7.ext.5
+	caelum	1.7.ext.6
+	caelesti	1.7.ext.6
+	caelesti	1.8.2
+	caeleste	1.8.6
+	caelestis	1.8.ext.17
+prouident
+	prouidentia	Praef.
+	prouidentia	1.5.init.
+	prouidentia	1.5.5
+uirtut
+	uirtutes	Praef.
+	uirtutis	1.5.2
+	uirtutum	1.7.2
+beni
+	benignissime	Praef.
+	bene	Praef.
+	bene	1.1.1
+	bene	1.1.9
+	bene	1.1.ext.1
+	bene	1.7.ext.2
+	benignissime	1.8.2
+foue
+	fouentur	Praef.
+	fortissima	1.6.4
+	foro	1.6.5
+uit
+	uitia	Praef.
+	uitio	1.1.3
+	uisa	1.1.6
+	uiri	1.1.8
+	uiri	1.1.12
+	uiri	1.5.2
+	utique	1.5.9
+	uisa	1.6.4
+	uitare	1.6.10
+	uitae	1.6.10
+	uitam	1.6.13
+	uili	1.6.ext.2
+	uidisse	1.7.2
+	uitare	1.7.6
+	uiuo	1.7.6
+	uisu	1.7.7
+	uisa	1.7.ext.2
+	uitae	1.7.ext.2
+	uitam	1.7.ext.3
+	uiro	1.7.ext.5
+	uitem	1.7.ext.5
+	uisa	1.7.ext.7
+	uiso	1.7.ext.10
+	uitae	1.7.ext.10
+	uisi	1.8.1
+	uisi	1.8.1
+	ubique	1.8.2
+	uiro	1.8.12
+	uisa	1.8.ext.1
+	uiri	1.8.ext.5
+	uitauit	1.8.ext.9
+	uita	1.8.ext.10
+	ubique	1.8.ext.18
+	uini	1.8.ext.18
+uindica
+	uindicantur	Praef.
+	uindicta	1.1.13
+	uindicauit	1.1.21
+	uindicata	1.1.ext.1
+	uindicari	1.8.ext.18
+pris
+	prisci	Praef.
+	prisco	1.1.1
+	prius	1.1.8
+	prisci	1.1.12
+	prisco	1.5.4
+	prius	1.6.3
+	prima	1.6.9
+	primo	1.6.11
+	prius	1.7.3
+	prius	1.7.4
+	prius	1.7.6
+	primo	1.7.ext.1
+	prius	1.7.ext.2
+	prius	1.7.ext.4
+	prae	1.8.2
+	prius	1.8.4
+	prius	1.8.8
+	prius	1.8.11
+Io
+	Ioue	Praef.
+	Iouis	1.1.16
+	Ioui	1.1.ext.3
+	Iouis	1.7.5
+	Ioue	1.7.ext.1
+	Iouis	1.7.ext.6
+opti
+	optimo	Praef.
+	optimum	1.1.7
+	optimi	1.1.16
+	opus	1.1.20
+	optime	1.5.1
+	opem	1.5.5
+	opus	1.5.7
+	opem	1.5.ext.2
+	opibus	1.6.2
+	optimae	1.6.11
+	opes	1.6.12
+	opes	1.6.ext.2
+	opibus	1.7.7
+	opem	1.8.2
+maxi
+	maximo	Praef.
+	maximus	1.1.2
+	maximo	1.1.6
+	maximi	1.1.16
+	maximam	1.1.19
+	maxima	1.6.6
+	maximo	1.6.13
+	maximo	1.6.ext.3
+	maximo	1.7.ext.4
+	maxime	1.7.ext.10
+	maximisque	1.8.6
+	maxime	1.8.ext.2
+or
+	orsi	Praef.
+	orta	1.1.1
+	ortus	1.1.ext.3
+	ortum	1.5.1
+	ordiar	1.7.1
+	orbis	1.7.2
+	ordine	1.7.4
+	ortus	1.7.ext.5
+	oris	1.7.ext.6
+	orta	1.7.ext.8
+	orbem	1.8.2
+	origo	1.8.ext.5
+	ordine	1.8.ext.12
+	ordine	1.8.ext.13
+excelle
+	excellentissimi	Praef.
+	excellentissimo	1.7.ext.5
+	excellentis	1.8.1
+uat
+	uates	Praef.
+	uatum	1.1.1
+	uana	1.6.ext.2
+	uano	1.8.1
+	uate	1.8.ext.18
+numi
+	numine	Praef.
+	numinis	1.1.18
+	numinis	1.1.19
+	numine	1.6.13
+	numine	1.7.1
+	numinis	1.8.10
+princip
+	principia	Praef.
+	principum	1.1.1
+	principia	1.6.11
+trax
+	traxerunt	Praef.
+	traxit	1.1.19
+	tres	1.8.2
+	traxit	1.8.6
+	tribus	1.8.6
+	traxit	1.8.8
+paruit
+	paruitas	Praef.
+	paruit	1.6.3
+	paruae	1.8.ext.14
+iusti
+	iustius	Praef.
+	iussu	1.1.3
+	iussi	1.1.4
+	iusta	1.1.14
+	iusta	1.1.21
+	iusta	1.6.12
+	iustae	1.6.12
+	iussu	1.8.2
+	iussu	1.8.ext.8
+	iusta	1.8.ext.8
+tu
+	tuum	Praef.
+	tuto	1.1.2
+	tutam	1.1.7
+	tulit	1.1.9
+	tura	1.1.15
+	tulit	1.1.20
+	tulit	1.5.6
+	tumore	1.5.8
+	tunc	1.5.ext.2
+	turpi	1.6.7
+	tuaque	1.6.13
+	tutela	1.6.13
+	tuum	1.6.13
+	tutela	1.7.ext.4
+	turbam	1.7.ext.6
+	tunc	1.7.ext.10
+	tunc	1.8.6
+diuinit
+	diuinitas	Praef.
+	diuinis	1.1.1
+	diuinam	1.1.8
+	diuinae	1.1.9
+	diuinam	1.1.11
+	diuinitus	1.5.ext.1
+	diuinitatis	1.7.2
+	diuinitus	1.7.ext.8
+	diuinitas	1.8.8
+	diuinitus	1.8.9
+opinio
+	opinione	Praef.
+	opinione	1.7.ext.6
+	opinio	1.8.2
+	opinione	1.8.7
+collig
+	colligitur	Praef.
+	collem	1.1.11
+	colles	1.6.ext.3
+praesen
+	praesenti	Praef.
+	praesens	1.8.ext.3
+fi
+	fide	Praef.
+	filii	1.1.1
+	fieri	1.1.8
+	filiae	1.1.15
+	filius	1.1.19
+	filiis	1.1.20
+	fili	1.1.ext.3
+	filiae	1.5.4
+	filii	1.6.1
+	fine	1.6.10
+	filii	1.6.11
+	filium	1.7.2
+	fieri	1.7.2
+	filius	1.7.4
+	filium	1.7.ext.2
+	fidem	1.7.ext.2
+	filiis	1.7.ext.4
+	filius	1.7.ext.4
+	filii	1.7.ext.4
+	filiam	1.7.ext.5
+	finem	1.8.2
+	fidem	1.8.5
+	filio	1.8.7
+	fidem	1.8.7
+	fides	1.8.10
+	fili	1.8.ext.3
+	filiae	1.8.ext.3
+	fide	1.8.ext.8
+	filio	1.8.ext.10
+	filius	1.8.ext.12
+	filia	1.8.ext.13
+	fiat	1.8.ext.19
+pater
+	paterno	Praef.
+	pateras	1.1.ext.3
+	paterni	1.6.11
+	paterae	1.6.ext.1
+aui
+	auitoque	Praef.
+	auxisse	1.5.2
+	aues	1.6.5
+	auium	1.6.11
+	auro	1.6.ext.2
+	auus	1.7.ext.5
+uid
+	uidetur	Praef.
+	uidebatur	1.1.2
+	uidentur	1.1.8
+	uideretur	1.5.2
+	uideretur	1.6.3
+	uidear	1.6.ext.1
+	uidentur	1.6.ext.3
+	uiderunt	1.7.3
+	uidit	1.7.6
+	uidissent	1.7.7
+	uidit	1.7.8
+	uidisset	1.7.8
+	uides'	1.7.ext.1
+	uidisset	1.7.ext.2
+	uiderat	1.7.ext.5
+	uiderat	1.7.ext.6
+	uiderat	1.7.ext.9
+	uidit	1.7.ext.10
+	uideret	1.8.2
+	uidit	1.8.8
+	uidisset	1.8.9
+exim
+	eximio	Praef.
+	exta	1.1.4
+	eximia	1.1.16
+	eximiae	1.1.ext.2
+	eximiae	1.6.7
+	exta	1.6.9
+	exta	1.7.3
+	exitu	1.7.ext.2
+	eximiae	1.8.6
+	eximiam	1.8.ext.15
+mult
+	multum	Praef.
+	multa	1.1.2
+	multo	1.1.13
+	multo	1.5.4
+	multa	1.6.11
+	multorum	1.7.1
+	multis	1.7.2
+	multi	1.7.6
+	multis	1.7.ext.6
+	multisque	1.8.ext.19
+caerimoni
+	caerimoniis	Praef.
+	caerimonias	1.1.1
+	caerimoniis	1.1.2
+	caerimoniarum	1.1.8
+	caerimonias	1.1.10
+nostr
+	nostris	Praef.
+	nostri	1.1.1
+	nostra	1.1.8
+	nostra	1.1.9
+	nostros	1.1.12
+	nostrae	1.1.15
+	nostris	1.5.ext.1
+	nostro	1.6.1
+	nostro	1.6.3
+	nostra	1.6.5
+	nostro	1.7.ext.1
+	nostra	1.8.2
+	nostrae	1.8.2
+	nostram	1.8.2
+	nostros	1.8.6
+	nostrum	1.8.7
+	nostra	1.8.8
+	nostrae	1.8.12
+inclit
+	inclitae	Praef.
+	inclitaeque	1.5.1
+	inclitis	1.8.7
+access
+	accessit	Praef.
+	accepisse	1.1.ext.2
+	accessisse	1.7.7
+reliqu
+	reliquos	Praef.
+	reliquum	1.6.5
+accepim
+	accepimus	Praef.
+	accepisset	1.1.1
+	accepimus	1.6.13
+quoni
+	quoniam	Praef.
+	quoniam	1.1.1
+	quoniam	1.5.init.
+	quoniam	1.5.4
+	quoniam	1.7.1
+	quoniam	1.7.ext.10
+	quoniam	1.8.ext.2
+initi
+	initium	Praef.
+	initia	1.6.5
+cul
+	cultu	Praef.
+	cultu	1.1.8
+	cultu	1.1.12
+	culleo	1.1.13
+	cultu	1.1.15
+	cultui	1.6.13
+	culta	1.7.ext.4
+	cultuque	1.8.2
+	cultum	1.8.2
+pete
+	petere	Praef.
+	peterent	1.1.1
+	petentem	1.1.2
+	petit	1.5.4
+	petisset	1.6.7
+	petendae	1.7.ext.4
+	petere	1.7.ext.10
+	petens	1.8.1
+	peterent	1.8.6
+	peteret	1.8.6
+ani
+	animo	Praef.
+	animi	1.1.9
+	animi	1.1.10
+	animi	1.1.12
+	animi	1.1.20
+	ante	1.1.21
+	animo	1.1.ext.2
+	anni	1.1.ext.3
+	animo	1.5.3
+	animo	1.5.7
+	ante	1.6.4
+	animos	1.6.5
+	ante	1.6.9
+	ante	1.6.9
+	animo	1.6.10
+	ante	1.6.11
+	animis	1.6.12
+	animal	1.6.ext.1
+	ante	1.6.ext.1
+	animi	1.7.2
+	animo	1.7.5
+	animo	1.7.7
+	animo	1.7.ext.2
+	animis	1.7.ext.3
+	animum	1.7.ext.4
+	animo	1.7.ext.8
+	animorum	1.8.6
+	animo	1.8.8
+	ante	1.8.10
+	animo	1.8.ext.2
+	ante	1.8.ext.5
+	animi	1.8.ext.8
+	anni	1.8.ext.18
+condicio
+	condicione	Praef.
+	condicio	1.5.1
+ei
+	eius	Praef.
+	eius	1.1.1
+	eius	1.1.3
+	eius	1.1.17
+	eius	1.1.18
+	eius	1.1.19
+	eius	1.1.ext.1
+	eius	1.5.2
+	eius	1.5.4
+	eius	1.5.6
+	eius	1.6.2
+	eius	1.6.3
+	eius	1.6.4
+	eius	1.6.6
+	eius	1.6.7
+	eius	1.6.9
+	eius	1.6.12
+	eius	1.6.ext.1
+	eius	1.6.ext.2
+	eius	1.6.ext.3
+	eius	1.7.1
+	eius	1.7.1
+	eius	1.7.4
+	eius	1.7.5
+	eius	1.7.7
+	eius	1.7.7
+	eius	1.7.8
+	eius	1.7.ext.3
+	eius	1.7.ext.5
+	eius	1.7.ext.5
+	eius	1.7.ext.6
+	eius	1.7.ext.8
+	eius	1.7.ext.10
+	eius	1.7.ext.10
+	eius	1.8.1
+	eius	1.8.2
+	eius	1.8.7
+	eius	1.8.8
+	eius	1.8.9
+	eius	1.8.12
+	eius	1.8.ext.5
+	eius	1.8.ext.8
+	eiusque	1.8.ext.8
+	eius	1.8.ext.10
+	eius	1.8.ext.15
+dis
+	disseram	Praef.
+	dissimulanter	1.5.6
+	distat	1.8.2
+stat
+	statas	1.1.1
+	statu	1.1.10
+	statum	1.1.11
+	statue	1.5.1
+	statua	1.6.12
+	status	1.7.2
+	status	1.7.5
+	statua	1.8.11
+	statua	1.8.11
+sollemn
+	sollemnesque	1.1.1
+	sollemni	1.1.1
+	sollemni	1.1.11
+	sollemnique	1.6.9
+pontific
+	pontificum	1.1.1
+	pontifex	1.1.2
+	pontifici	1.1.6
+	pontificum	1.1.8
+	pontificum	1.1.8
+	pontificum	1.1.8
+	pontificum	1.1.12
+gerend
+	gerendarum	1.1.1
+	gerendum	1.1.2
+	gerens	1.1.8
+	gerens	1.1.11
+	gerens	1.5.9
+	gerenda	1.7.ext.4
+rer
+	rerum	1.1.1
+	rerum	1.1.9
+	rege	1.5.3
+	resque	1.8.6
+	rege	1.8.ext.18
+	rerum	1.8.ext.18
+auctoritat
+	auctoritates	1.1.1
+	auctoritate	1.1.12
+	auctoritatem	1.6.12
+	auctoritatis	1.6.ext.1
+	auctoritate	1.8.2
+augur
+	augurum	1.1.1
+	augurum	1.1.3
+	auguribus	1.1.3
+	augurium	1.6.10
+	augures	1.6.ext.2
+obseruatio
+	obseruatione	1.1.1
+	obseruatio	1.1.8
+	obseruatio	1.5.init.
+	obseruatio	1.5.5
+Apollin
+	Apollinis	1.1.1
+	Apollinem	1.1.ext.3
+	Apollini	1.1.ext.4
+	Apollinis	1.6.10
+	Apollinis	1.8.10
+	Apollinis	1.8.10
+	Apollinem	1.8.ext.8
+praediction
+	praedictiones	1.1.1
+	praedictione	1.5.ext.1
+	praedictione	1.6.3
+	praedictionis	1.7.ext.1
+libr
+	libris	1.1.1
+	libris	1.1.1
+	libros	1.1.3
+	libri	1.1.12
+	librum	1.1.13
+	libris	1.8.2
+Etrus
+	Etrusca	1.1.1
+	Etruscis	1.8.5
+	Etruscis	1.8.5
+discipli
+	disciplina	1.1.1
+	disciplinae	1.1.1
+	disciplina	1.1.12
+eti
+	etiam	1.1.1
+	etiam	1.1.1
+	etiam	1.1.1
+	etiam	1.1.4
+	etiam	1.1.9
+	etiam	1.1.12
+	etiam	1.1.18
+	etiam	1.1.20
+	etiam	1.1.ext.3
+	etiam	1.5.init.
+	etiam	1.5.5
+	etiam	1.5.7
+	etiam	1.6.1
+	etiam	1.6.5
+	etiam	1.6.5
+	etiam	1.6.6
+	etiam	1.6.12
+	etiam	1.7.2
+	etiam	1.7.2
+	etiam	1.7.3
+	etiam	1.7.3
+	etiam	1.7.4
+	etiam	1.7.6
+	etiam	1.7.ext.1
+	etiam	1.7.ext.2
+	etiam	1.7.ext.4
+	etsi	1.7.ext.10
+	etiam	1.8.init.
+	etiam	1.8.1
+	etiam	1.8.4
+	etiam	1.8.5
+	etiam	1.8.12
+	etiam	1.8.ext.17
+	etiam	1.8.ext.19
+institu
+	instituto	1.1.1
+	institutum	1.1.10
+	instituerunt	1.5.ext.2
+	instituto	1.6.11
+	instituerit	1.8.ext.18
+reb
+	rebus	1.1.1
+	rebus	1.7.2
+ope
+	opera	1.1.1
+	operis	1.5.2
+	operibus	1.7.2
+	opertum	1.7.ext.9
+	opera	1.8.6
+precatio
+	precatione	1.1.1
+	precatus	1.5.2
+	precatio	1.5.2
+soluend
+	soluendum	1.1.1
+	soluendam	1.1.12
+gratulatio
+	gratulatione	1.1.1
+	gratulatio	1.8.ext.11
+sort
+	sortibus	1.1.1
+	solo	1.1.15
+	sorte	1.5.3
+	sortibus	1.6.3
+	sortes	1.8.10
+	sono	1.8.10
+	soli	1.8.10
+	sortium	1.8.ext.8
+	sortis	1.8.ext.18
+ri
+	ritu	1.1.1
+	ritibus	1.1.1
+	ritu	1.1.11
+	rituum	1.1.13
+	ritum	1.1.17
+	ridens	1.1.ext.3
+	ripam	1.8.2
+	riteque	1.8.4
+sacrific
+	sacrificio	1.1.1
+	sacrificari	1.1.8
+	sacrificium	1.1.11
+	sacrificiis	1.1.16
+	sacrificium	1.6.7
+	sacrificaret	1.6.8
+	sacrificio	1.6.8
+	sacrificio	1.6.9
+	sacrificio	1.7.3
+	sacrificio	1.7.ext.4
+ostent
+	ostentorum	1.1.1
+	ostentorum	1.6.ext.1
+aut
+	autem	1.1.1
+	autem	1.1.13
+	autem	1.1.20
+	autem	1.1.ext.3
+	autem	1.5.2
+	autem	1.5.3
+	autem	1.5.5
+	autem	1.6.6
+	autem	1.6.7
+	autem	1.7.3
+	autem	1.7.6
+	autem	1.7.ext.3
+	autem	1.7.ext.6
+	autem	1.8.5
+studi
+	studium	1.1.1
+	studio	1.6.9
+	studio	1.6.13
+	studio	1.7.ext.4
+	studio	1.8.2
+	studio	1.8.6
+	studiis	1.8.ext.2
+	studii	1.8.ext.8
+sol
+	solum	1.1.1
+	soluerunt	1.1.1
+	solere	1.1.8
+	solem	1.5.8
+	solitum	1.6.3
+	soleat	1.6.11
+	solidae	1.6.ext.3
+	solutus	1.7.4
+	solitus	1.7.ext.4
+	solio	1.7.ext.6
+	solutumque	1.7.ext.6
+	soluerunt	1.8.2
+	solebat	1.8.2
+	solum	1.8.5
+	solus	1.8.12
+seruand
+	seruandae	1.1.1
+	seruare	1.8.6
+religion
+	religionis	1.1.1
+	religionique	1.1.2
+	religionis	1.1.8
+	religionibus	1.1.8
+	religiosi	1.1.9
+	religionem	1.1.9
+	religioni	1.1.10
+	religionis	1.1.11
+	religionis	1.1.12
+	religionem	1.1.12
+	religionis	1.1.14
+	religiosissimi	1.1.14
+	religionis	1.1.15
+	religionis	1.1.17
+	religionis	1.1.19
+	religioni	1.5.init.
+	religionum	1.5.5
+	religioni	1.6.3
+	religionis	1.6.13
+	religionem	1.7.4
+	religione	1.7.4
+	religione	1.8.2
+fu
+	fuit	1.1.1
+	fuisset	1.1.6
+	fuit	1.1.8
+	futura	1.1.9
+	fuissent	1.1.9
+	futuri	1.5.1
+	fuit	1.5.5
+	fuga	1.5.6
+	fugata	1.6.6
+	fuerat	1.6.6
+	fugerunt	1.6.7
+	fuga	1.6.8
+	fugere	1.6.9
+	fuga	1.6.12
+	fugax	1.6.ext.1
+	fuisset	1.6.ext.1
+	fuit	1.6.ext.2
+	furca	1.7.4
+	fuerat	1.7.7
+	fugato	1.7.7
+	fuit	1.7.ext.1
+	fuerat	1.7.ext.1
+	fuerat	1.7.ext.6
+	fulmen	1.7.ext.6
+	fuderunt	1.8.1
+	fuerat	1.8.6
+	fuerat	1.8.6
+	funere	1.8.ext.2
+	fuit	1.8.ext.2
+	fuit	1.8.ext.5
+	funere	1.8.ext.5
+	functa	1.8.ext.5
+	fuit	1.8.ext.11
+	fugae	1.8.ext.13
+	fuit	1.8.ext.13
+flore
+	florentissima	1.1.1
+	florente	1.1.10
+	flore	1.6.ext.3
+	florentis	1.8.ext.18
+ciuita
+	ciuitate	1.1.1
+	ciuitatem	1.1.1
+	ciuitas	1.1.8
+	ciuitas	1.1.9
+	ciuitate	1.1.12
+	ciuitatis	1.1.15
+	ciuium	1.6.13
+	ciuitas	1.8.2
+	ciuitas	1.8.8
+	ciuili	1.8.10
+	ciuitati	1.8.12
+senat
+	senatus	1.1.1
+	senatum	1.1.3
+	senatus	1.1.12
+	senatum	1.1.14
+	senatus	1.1.15
+	senatus	1.1.20
+	senatus	1.1.21
+	senatus	1.5.1
+	senatu	1.5.5
+	senatus	1.6.3
+	senatus	1.6.13
+	senatum	1.7.2
+	senatum	1.7.4
+	senatus	1.7.5
+	senatui	1.8.1
+consul
+	consulto	1.1.1
+	consulem	1.1.2
+	consularibus	1.1.3
+	consulatu	1.1.3
+	consulatum	1.1.8
+	consularibus	1.1.9
+	consulibus	1.1.12
+	consulem	1.1.16
+	consuli	1.5.3
+	consul	1.5.9
+	consul	1.6.4
+	consulibus	1.6.5
+	consul	1.6.6
+	consulis	1.6.6
+	consuli	1.6.7
+	consul	1.6.8
+	consulatus	1.6.9
+	consul	1.6.10
+	consulti	1.6.ext.1
+	consules	1.7.3
+	consulibus	1.7.3
+	consulibus	1.7.4
+	consulum	1.7.4
+	consulatus	1.7.5
+	consultum	1.7.5
+	consultoque	1.7.ext.7
+	consule	1.8.5
+	consul	1.8.6
+	consul	1.8.6
+	consulibus	1.8.11
+	consuluit	1.8.ext.8
+singul
+	singulis	1.1.1
+	singularem	1.6.ext.3
+	singularem	1.8.ext.2
+popul
+	populis	1.1.1
+	populi	1.1.3
+	populi	1.1.12
+	populumque	1.1.14
+	populo	1.1.ext.4
+	populi	1.5.2
+	populi	1.6.3
+	populi	1.6.6
+	populi	1.8.1
+	populo	1.8.6
+sacr
+	sacrorum	1.1.1
+	sacra	1.1.1
+	sacris	1.1.2
+	sacra	1.1.3
+	sacris	1.1.9
+	sacra	1.1.10
+	sacra	1.1.10
+	sacra	1.1.10
+	sacra	1.1.11
+	sacrorum	1.1.13
+	sacra	1.1.15
+	sacrorum	1.1.17
+	sacratissima	1.7.1
+	sacri	1.8.10
+	sacrario	1.8.11
+	sacrarum	1.8.ext.8
+grat
+	gratia	1.1.1
+	grata	1.1.10
+	graue	1.1.ext.3
+	gradu	1.1.ext.3
+	gratia	1.5.4
+	gratia	1.5.ext.1
+	gratia	1.6.3
+	grauissimi	1.6.8
+	gratia	1.6.9
+	grauissimas	1.6.11
+	gratae	1.6.ext.1
+	grana	1.6.ext.2
+	graui	1.7.1
+	graui	1.7.3
+	gratia	1.7.ext.4
+	gratiarum	1.8.2
+	grauissimi	1.8.10
+Cere
+	Cererique	1.1.1
+	Cererem	1.1.1
+	Cereris	1.1.15
+Grae
+	Graeco	1.1.1
+	Graeci	1.1.12
+	Graecos	1.1.12
+	Graeciae	1.1.ext.3
+	Graecum	1.5.7
+	Graeciam	1.6.ext.1
+	Graeco	1.7.ext.2
+	Grai	1.7.ext.7
+uenera
+	uenerari	1.1.1
+	ueneratus	1.6.13
+	uenerati	1.8.2
+	ueneni	1.8.ext.18
+sacerdot
+	sacerdotem	1.1.1
+	sacerdotium	1.1.5
+	sacerdotum	1.8.2
+Vel
+	Velia	1.1.1
+	Veis	1.8.2
+oppid
+	oppidum	1.1.1
+	oppidum	1.1.10
+	oppidum	1.5.6
+	oppidum	1.8.ext.7
+nond
+	nondum	1.1.1
+	nonne	1.8.6
+	noua	1.8.7
+	nonne	1.8.ext.12
+nomi
+	nomine	1.1.1
+	nomenque	1.1.17
+	nomine	1.1.ext.4
+	nomen	1.5.1
+	nomine	1.5.3
+	nomine	1.5.3
+	nomen	1.5.6
+	nomine	1.5.ext.2
+	nomine	1.7.7
+	nomen	1.8.10
+	nomen	1.8.ext.8
+	nomine	1.8.ext.12
+uetust
+	uetustis	1.1.1
+	uetustissimam	1.1.1
+	uetuit	1.7.7
+peri
+	perita	1.1.1
+	perinde	1.1.10
+	perinde	1.1.11
+	peritissimus	1.5.5
+	perinde	1.5.ext.2
+	periret	1.7.6
+	periculi	1.7.ext.2
+	perinde	1.7.ext.8
+	periculo	1.7.ext.10
+	perinde	1.8.init.
+	perinde	1.8.2
+	peritis	1.8.2
+	perinde	1.8.7
+	periret	1.8.ext.8
+	periculi	1.8.ext.9
+ur
+	urbe	1.1.1
+	urbem	1.1.2
+	urbe	1.1.10
+	urbis	1.1.14
+	urbe	1.5.1
+	urbis	1.5.1
+	urbis	1.5.1
+	urbe	1.6.3
+	urbe	1.6.5
+	urbis	1.7.4
+	urbe	1.7.5
+	urinam	1.7.ext.5
+	urbibus	1.7.ext.6
+	urbe	1.7.ext.8
+	urbem	1.8.1
+	urbi	1.8.2
+	urbe	1.8.2
+	urbis	1.8.2
+	urbi	1.8.2
+	urbem	1.8.2
+	urbem	1.8.2
+	urbis	1.8.4
+	urbis	1.8.6
+	urbis	1.8.8
+	urbem	1.8.ext.19
+pulcherrim
+	pulcherrimum	1.1.1
+	pulcherrimarum	1.6.11
+templ
+	templum	1.1.1
+	templum	1.1.8
+	tempus	1.1.10
+	templo	1.1.19
+	templo	1.1.20
+	templo	1.1.ext.2
+	tempus	1.1.ext.3
+	templa	1.6.13
+	templo	1.6.ext.1
+	templum	1.8.2
+	templi	1.8.2
+	templum	1.8.2
+	templum	1.8.2
+	templi	1.8.11
+	tempus	1.8.ext.3
+	templo	1.8.ext.18
+habere
+	haberent	1.1.1
+	haberet	1.1.9
+	habent	1.6.ext.1
+	habere	1.7.2
+	haberet	1.7.ext.7
+	haberes	1.8.8
+Graccha
+	Gracchano	1.1.1
+	Graccho	1.1.3
+	Gracchi	1.6.8
+	Gracchus	1.6.8
+	Graccho	1.6.9
+	Graccho	1.7.6
+	Gracchi	1.7.6
+	Graccho	1.7.6
+tumul
+	tumultu	1.1.1
+	tumultu	1.6.5
+moni
+	moniti	1.1.1
+	monitus	1.6.3
+	monitus	1.6.9
+	monitus	1.6.11
+	monitum	1.6.ext.1
+	monitu	1.7.3
+	monitu	1.7.ext.1
+Sibyllin
+	Sibyllinis	1.1.1
+	Sibyllinis	1.8.2
+credeba
+	credebant	1.1.1
+	credere	1.7.ext.3
+uir
+	uiros	1.1.1
+	uirgo	1.1.6
+	uirium	1.1.15
+	uiribus	1.1.19
+	uirgini	1.5.4
+	uirium	1.5.6
+	uiridem	1.6.12
+	uirorum	1.6.13
+	uires	1.7.1
+	uirum	1.7.ext.6
+	uiribus	1.8.1
+	uiribus	1.8.6
+	uiribus	1.8.10
+	uirgo	1.8.10
+	uiris	1.8.ext.18
+it
+	item	1.1.1
+	iter	1.6.3
+	ituro	1.6.7
+	iterum	1.6.ext.1
+	iterum	1.7.7
+	iter	1.7.ext.10
+	iterum	1.8.11
+Mat
+	Matri	1.1.1
+	Mago	1.6.8
+	Matris	1.8.11
+sae
+	saepe	1.1.1
+	saeculo	1.8.7
+	saepe	1.8.ext.8
+imperator
+	imperatores	1.1.1
+	imperatoris	1.6.8
+	imperatoris	1.6.11
+	imperatorem	1.7.3
+	imperatoris	1.8.2
+conpot
+	conpotes	1.1.1
+	conperit	1.1.ext.2
+	conpotes	1.8.2
+uictori
+	uictoriarum	1.1.1
+	uictore	1.1.14
+	uictoriae	1.5.1
+	uictoria	1.5.2
+	uictoris	1.5.8
+	uictoriae	1.5.ext.1
+	uictoriae	1.6.3
+	uictoria	1.6.4
+	uictoria	1.7.1
+	uictoria	1.7.ext.8
+	uictores	1.8.5
+	uictoriam	1.8.6
+	uictoriae	1.8.6
+	uictoriae	1.8.ext.4
+profec
+	profecti	1.1.1
+	profecto	1.1.14
+	profectum	1.5.4
+Metell
+	Metellus	1.1.2
+	Metelli	1.5.4
+	Metellus	1.5.4
+Postumi
+	Postumium	1.1.2
+	Postumius	1.1.2
+	Postumi	1.6.4
+	Postumius	1.8.1
+flamin
+	flaminem	1.1.2
+	flaminio	1.1.4
+	flamen	1.1.10
+	flamma	1.6.2
+	flamma	1.8.9
+bell
+	bellum	1.1.2
+	bellisque	1.1.4
+	bello	1.1.14
+	bellum	1.5.3
+	bellum	1.5.9
+	bello	1.5.ext.2
+	bello	1.6.3
+	bello	1.6.4
+	bellorum	1.6.5
+	bello	1.6.5
+	belli	1.6.12
+	bello	1.7.3
+	bella	1.7.ext.4
+	bello	1.8.1
+	bellum	1.8.5
+	bello	1.8.10
+	bellum	1.8.10
+Afric
+	Africam	1.1.2
+	Africam	1.5.5
+	Africa	1.8.ext.19
+disceder
+	discederet	1.1.2
+	discedere	1.7.7
+	discedere	1.7.8
+egre
+	egredi	1.1.2
+	egit	1.1.18
+	egerunt	1.5.ext.2
+	egredi	1.6.9
+	egresso	1.6.12
+	egit	1.7.2
+	egisset	1.7.4
+	egit	1.7.4
+	egressis	1.8.2
+	egressus	1.8.ext.7
+pass
+	passus	1.1.2
+	pari	1.1.13
+	passi	1.1.14
+	passae	1.6.12
+	pari	1.8.2
+	passuum	1.8.2
+imperi
+	imperium	1.1.2
+	imperio	1.1.8
+	imperia	1.1.9
+	imperio	1.1.19
+	imperio	1.1.21
+	imperii	1.5.1
+	imperium	1.6.6
+	imperii	1.6.11
+	imperio	1.6.ext.2
+	imperium	1.7.4
+	imperii	1.7.4
+	imperio	1.7.ext.1
+	impetu	1.7.ext.1
+	imperiique	1.7.ext.4
+	imperium	1.7.ext.5
+	imperio	1.8.1
+	imperium	1.8.5
+Mart
+	Martio	1.1.2
+	Martis	1.1.2
+	Mario	1.5.5
+	Marci	1.6.1
+	Marci	1.6.2
+	Martis	1.8.6
+	Martem	1.8.6
+	Marti	1.8.6
+certami
+	certamini	1.1.2
+	certamine	1.8.6
+	certamen	1.8.10
+conmissur
+	conmissurus	1.1.2
+	conmissum	1.1.13
+desert
+	desertis	1.1.2
+	deserta	1.7.5
+	desertis	1.7.ext.3
+religios
+	religiosum	1.1.3
+	religiosam	1.8.2
+obsequi
+	obsequium	1.1.3
+	obsequio	1.8.2
+consimi
+	consimili	1.1.3
+	consimilis	1.1.19
+	consimilis	1.8.ext.10
+Tiber
+	Tiberio	1.1.3
+	Tiberii	1.7.6
+	Tiberis	1.8.2
+collegi
+	collegium	1.1.3
+	collegio	1.1.8
+	collegio	1.1.8
+	collegii	1.1.9
+	collegium	1.6.9
+	collega	1.6.10
+litter
+	litteris	1.1.3
+	litteris	1.1.ext.2
+	litteris	1.6.ext.1
+	litteris	1.8.1
+	litterarum	1.8.7
+	litterarum	1.8.ext.2
+prouinc
+	prouincia	1.1.3
+	prouinciam	1.6.ext.1
+significab
+	significabat	1.1.3
+	significari	1.6.10
+pertinent
+	pertinentes	1.1.3
+	pertinere	1.1.12
+	pertinere	1.6.8
+	pertinere	1.6.13
+	pertinens	1.7.4
+leger
+	legeret	1.1.3
+	leges	1.6.12
+animaduer
+	animaduertisse	1.1.3
+	animaduertit	1.5.5
+	animaduertit	1.7.ext.1
+	animaduertit	1.7.ext.6
+	animaduertit	1.8.2
+	animaduertit	1.8.6
+tabernacul
+	tabernaculum	1.1.3
+	tabernaculum	1.8.2
+capt
+	captum	1.1.3
+	capta	1.1.10
+	capax	1.1.10
+	captiui	1.1.14
+	captiui	1.1.14
+	captus	1.1.17
+	casu	1.1.20
+	caput	1.6.1
+	capi	1.6.3
+	caput	1.6.6
+	capta	1.6.6
+	captarum	1.6.9
+	caput	1.6.9
+	caput	1.6.10
+	capta	1.7.1
+	caput	1.7.1
+	casu	1.7.5
+	caput	1.7.ext.2
+	captiuus	1.7.ext.8
+	captum	1.8.1
+	captum	1.8.1
+	captis	1.8.2
+	capta	1.8.6
+	caput	1.8.6
+	casu	1.8.10
+	capti	1.8.10
+	captum	1.8.ext.15
+comiti
+	comitiis	1.1.3
+	comitio	1.5.1
+	comitibus	1.7.ext.4
+	comitem	1.7.ext.10
+ip
+	ipse	1.1.3
+	ipso	1.1.17
+	ipsum	1.1.19
+	ipsa	1.1.ext.1
+	ipsis	1.1.ext.3
+	ipsum	1.1.ext.3
+	ipsa	1.5.4
+	ipsum	1.5.8
+	ipso	1.6.6
+	ipsa	1.6.11
+	ipsis	1.6.12
+	ipsum	1.7.3
+	ipse	1.7.4
+	ipsius	1.7.5
+	ipse	1.7.6
+	ipsa	1.7.ext.1
+	ipse	1.7.ext.3
+	ipse	1.7.ext.5
+	ipsum	1.7.ext.8
+	ipsius	1.8.2
+	ipsorum	1.8.2
+	ipsam	1.8.2
+	ipsi	1.8.5
+	ipse	1.8.7
+	ipsi	1.8.9
+	ipsius	1.8.10
+	ipso	1.8.ext.5
+	ipsum	1.8.ext.7
+	ipsa	1.8.ext.12
+	ipsius	1.8.ext.17
+	ipsa	1.8.ext.18
+	ipsa	1.8.ext.19
+fec
+	fecisset	1.1.3
+	fecit	1.5.4
+	fecunda	1.8.ext.18
+eaque
+	eaque	1.1.3
+	eaque	1.5.5
+	eaque	1.6.3
+rela
+	relata	1.1.3
+	relatio	1.6.1
+	relatu	1.6.11
+	relatio	1.6.ext.1
+	relatos	1.8.7
+	relatae	1.8.ext.19
+Gall
+	Gallia	1.1.3
+	Gallis	1.1.10
+	Gallis	1.1.11
+	Gallis	1.5.1
+	Gallia	1.6.5
+Scip
+	Scipio	1.1.3
+	Scipione	1.8.11
+Nasi
+	Nasica	1.1.3
+	Nasica	1.8.11
+redi
+	redierunt	1.1.3
+	rediit	1.1.11
+	rediit	1.7.4
+	reditu	1.7.5
+ratio
+	ratione	1.1.4
+	ratus	1.5.5
+	ratione	1.7.6
+	ratione	1.8.init.
+	ratus	1.8.10
+	rationem	1.8.ext.18
+	rationem	1.8.ext.19
+Sicul
+	Siculus	1.1.4
+	Siculos	1.7.ext.8
+Corneli
+	Cornelius	1.1.4
+	Cornelio	1.1.12
+Claudi
+	Claudius	1.1.4
+	Claudatur	1.6.ext.1
+	Claudiae	1.8.11
+propt
+	propter	1.1.4
+	propter	1.1.11
+	prope	1.1.17
+	propter	1.7.1
+	prona	1.7.ext.1
+	propter	1.7.ext.10
+curio
+	curiose	1.1.4
+	curia	1.5.3
+	curia	1.7.2
+	curis	1.7.7
+	curiose	1.8.ext.19
+admo
+	admota	1.1.4
+	admodum	1.5.3
+	admoniti	1.6.2
+	adeo	1.6.12
+	admonuit	1.7.2
+	admodum	1.7.7
+	admotum	1.7.8
+	admotis	1.8.6
+	admodum	1.8.ext.13
+inmortali
+	inmortalium	1.1.4
+	inmortales	1.1.14
+	inmortalibus	1.1.ext.3
+	inmortales	1.6.3
+	inmortalium	1.8.7
+	inmortalibus	1.8.ext.7
+ar
+	aris	1.1.4
+	arma	1.1.9
+	armorum	1.1.11
+	arcis	1.1.12
+	aris	1.1.15
+	arma	1.5.5
+	arae	1.6.4
+	arceri	1.6.8
+	armata	1.6.8
+	armis	1.6.10
+	armorum	1.6.12
+	aras	1.6.13
+	arduum	1.8.init.
+	armorum	1.8.6
+	ardentissimo	1.8.8
+	aram	1.8.ext.18
+tempor
+	temporibus	1.1.4
+	tempore	1.5.1
+	tempore	1.5.5
+	tempore	1.6.3
+	temporis	1.7.7
+	tempore	1.7.ext.2
+	temporibus	1.7.ext.5
+	tempore	1.8.1
+	tempore	1.8.4
+	tempore	1.8.ext.1
+	temporis	1.8.ext.5
+	temporis	1.8.ext.7
+	temporis	1.8.ext.17
+abi
+	abire	1.1.4
+	abici	1.1.13
+	abiit	1.6.7
+	abiecto	1.7.8
+	abibit'	1.8.5
+	abiecisset	1.8.ext.11
+coac
+	coactique	1.1.4
+	coactae	1.1.15
+	coactis	1.1.ext.1
+	coacti	1.6.9
+	coactus	1.6.ext.1
+Sulpic
+	Sulpicio	1.1.5
+	Sulpicio	1.6.5
+int
+	inter	1.1.5
+	intra	1.1.17
+	inter	1.1.18
+	inter	1.1.19
+	inter	1.5.2
+	interque	1.5.9
+	intra	1.6.3
+	inter	1.6.5
+	inter	1.6.11
+	inter	1.6.11
+	inter	1.6.12
+	inter	1.6.ext.1
+	inter	1.7.1
+	inter	1.7.2
+	inter	1.7.3
+	intro	1.7.7
+	inter	1.7.7
+	inter	1.7.8
+	inter	1.7.ext.3
+	intenti	1.7.ext.4
+	inter	1.7.ext.6
+	inter	1.7.ext.6
+	inter	1.7.ext.8
+	inter	1.7.ext.8
+	intra	1.7.ext.8
+	inter	1.8.1
+	inter	1.8.2
+	inter	1.8.6
+	inter	1.8.6
+	intimam	1.8.10
+	inter	1.8.10
+	inter	1.8.10
+	intacta	1.8.11
+	inter	1.8.ext.1
+	intulit	1.8.ext.5
+	inter	1.8.ext.5
+capi
+	capite	1.1.5
+	capiam'	1.5.9
+	capite	1.6.2
+	capite	1.6.5
+	capite	1.6.9
+	capite	1.6.10
+	capienti	1.7.1
+	capite	1.7.3
+	capillo	1.7.7
+	capitis	1.7.7
+	capitibusque	1.7.ext.6
+	capitale	1.7.ext.10
+	capienda	1.8.6
+	capite	1.8.ext.2
+prolaps
+	prolapsus	1.1.5
+	prolapsam	1.6.4
+	prolapsae	1.6.8
+	prolapsus	1.8.2
+id
+	idem	1.1.5
+	idem	1.1.ext.3
+	idem	1.1.ext.3
+	idem	1.1.ext.3
+	idem	1.6.8
+	idem	1.7.ext.10
+	idem	1.8.6
+audit
+	auditus	1.1.5
+	audisset	1.1.20
+	audita	1.5.1
+	audita	1.5.4
+	auditum	1.6.12
+	audita	1.6.ext.3
+	audisset	1.7.1
+	audito	1.7.5
+	audierunt	1.7.6
+	audiit	1.7.ext.6
+	audita	1.8.2
+Fab
+	Fabio	1.1.5
+	Fabius	1.1.11
+	Fabiae	1.1.11
+Maxi
+	Maximo	1.1.5
+	Maximae	1.1.7
+dictatur
+	dictaturam	1.1.5
+	dictator	1.8.1
+Flamin
+	Flaminio	1.1.5
+	Flaminius	1.6.6
+	Flamini	1.6.7
+	Flaminium	1.7.4
+equit
+	equitum	1.1.5
+	equitatu	1.6.11
+	equae	1.6.ext.1
+	equitis	1.7.8
+	equite	1.7.8
+	equis	1.8.1
+	equorumque	1.8.1
+	equum	1.8.ext.8
+	equum	1.8.ext.8
+caus
+	causam	1.1.5
+	causae	1.1.21
+	causa	1.5.5
+	cauea	1.6.7
+	cauit	1.6.8
+	causam	1.7.8
+	causam	1.7.ext.6
+	causa	1.8.ext.8
+	causa	1.8.ext.10
+praebu
+	praebuit	1.1.5
+	praeda	1.1.ext.1
+	praebuit	1.8.6
+	praebuit	1.8.ext.5
+Vestal
+	Vestalis	1.1.6
+	Vestae	1.1.7
+	Vestales	1.1.10
+noc
+	nocte	1.1.6
+	namque	1.1.9
+	namque	1.1.11
+	namque	1.1.ext.4
+	nocte	1.5.4
+	namque	1.6.2
+	namque	1.6.5
+	namque	1.6.6
+	nocte	1.6.9
+	namque	1.6.ext.1
+	nocte	1.7.1
+	nocte	1.7.2
+	nocte	1.7.3
+	nocte	1.7.7
+	noctem	1.7.7
+	namque	1.7.ext.2
+	noctu	1.8.1
+	namque	1.8.2
+	nocendi	1.8.ext.2
+dilige
+	diligens	1.1.6
+	diligentia	1.1.12
+	diligentia	1.6.7
+aeter
+	aeterni	1.1.6
+	aeternae	1.6.ext.3
+cust
+	custos	1.1.6
+	custos	1.7.ext.2
+	custodia	1.7.ext.6
+	custodia	1.8.1
+flag
+	flagro	1.1.6
+	flaui	1.7.ext.6
+ue
+	uero	1.1.7
+	uellet	1.1.8
+	uehens	1.1.10
+	uerum	1.1.14
+	uexati	1.1.14
+	uestem	1.1.15
+	uelut	1.1.17
+	uero	1.1.17
+	ueste	1.1.18
+	uento	1.1.ext.3
+	uerbis	1.5.1
+	uero'	1.5.4
+	uero	1.5.6
+	uersum	1.5.7
+	uellet	1.5.7
+	uera	1.5.8
+	uelut	1.5.ext.1
+	uera	1.5.ext.1
+	uersa	1.6.1
+	uerum	1.6.6
+	uellet	1.6.7
+	uetere	1.6.11
+	uellem	1.6.11
+	uerum	1.6.11
+	ueste	1.6.13
+	uero	1.6.ext.2
+	uero	1.7.2
+	uenire	1.7.7
+	uetita	1.7.ext.1
+	uenit	1.7.ext.2
+	uersu	1.7.ext.2
+	uetiti	1.7.ext.4
+	uerum	1.7.ext.4
+	uelut	1.7.ext.6
+	uenerunt	1.7.ext.10
+	uero	1.8.1
+	uexata	1.8.2
+	uerba	1.8.2
+	uesci	1.8.2
+	uellet	1.8.2
+	uelle	1.8.2
+	uersus	1.8.2
+	uerbis	1.8.4
+	uersetur	1.8.7
+	uera	1.8.7
+	uerborum	1.8.10
+	uenisse	1.8.ext.7
+	uellet	1.8.ext.10
+	uero	1.8.ext.13
+	uentos	1.8.ext.18
+	uentos	1.8.ext.18
+uirgin
+	uirginis	1.1.7
+	uirginesque	1.1.10
+	uirgines	1.1.10
+	uirginem	1.5.4
+extinc
+	extincto	1.1.7
+	extincti	1.1.17
+	extincti	1.8.ext.17
+habeb
+	habebat	1.1.7
+	habuisse	1.1.8
+	habebat	1.7.ext.4
+focu
+	foculo	1.1.7
+	foculum	1.6.9
+inposu
+	inposuisset	1.1.7
+	inponi	1.8.2
+emicu
+	emicuit	1.1.7
+	emicuisse	1.6.1
+custodien
+	custodiendoque	1.1.8
+	custodiae	1.1.13
+	custodiam	1.1.14
+	custodiae	1.1.ext.1
+	custodiae	1.5.5
+pertin
+	pertinax	1.1.8
+	pertinuit	1.1.ext.1
+	pertinuisse	1.5.2
+	pertinebat	1.7.ext.4
+	pertinax	1.7.ext.4
+	pertinax	1.8.ext.10
+indulgent
+	indulgentia	1.1.8
+	indulgentia	1.5.4
+	indulgentius	1.7.ext.3
+	indulgentiam	1.8.2
+semp
+	semper	1.1.8
+	semper	1.1.9
+	semper	1.1.19
+	semel	1.6.ext.1
+	semel	1.8.4
+	semper	1.8.ext.9
+excubu
+	excubuit	1.1.8
+	excubat	1.7.1
+	excubuisse	1.8.1
+paruu
+	paruula	1.1.8
+	parte	1.1.12
+	parte	1.1.15
+	parte	1.1.19
+	paruula	1.5.3
+	parte	1.6.4
+	partu	1.6.ext.1
+	paruuli	1.6.ext.3
+	paruulum	1.7.7
+	parte	1.7.ext.4
+	paruulum	1.7.ext.5
+	parte	1.7.ext.5
+	parte	1.8.2
+	parte	1.8.ext.12
+	parte	1.8.ext.18
+momen
+	momenta	1.1.8
+	momento	1.8.ext.5
+	momento	1.8.ext.7
+	momento	1.8.ext.17
+examina
+	examinari	1.1.8
+	examinibus	1.6.12
+numqu
+	numquam	1.1.8
+	numquam	1.7.ext.2
+	numquam	1.8.2
+	numquam	1.8.8
+remot
+	remotos	1.1.8
+	remotum	1.6.12
+exa
+	exactissimo	1.1.8
+	exaudisse	1.7.ext.8
+	exactos	1.8.5
+ocul
+	oculos	1.1.8
+	oculos	1.5.6
+	oculi	1.6.1
+	oculi	1.6.11
+	oculis	1.6.13
+	oculis	1.7.ext.1
+	oculis	1.8.2
+	oculis	1.8.7
+	oculi	1.8.ext.14
+existiman
+	existimanda	1.1.8
+	existimantia	1.1.9
+	existimantibus	1.5.1
+	existimari	1.8.7
+Marcell
+	Marcellus	1.1.8
+	Marcellus	1.1.8
+	Marcello	1.1.8
+	Marcellum	1.1.9
+	Marcelli	1.6.9
+	Marcellus	1.6.9
+Hono
+	Honori	1.1.8
+	Honoris	1.1.8
+Virtu
+	Virtuti	1.1.8
+	Virtutis	1.1.8
+Syracus
+	Syracusis	1.1.8
+	Syracusis	1.1.ext.3
+	Syracusarum	1.6.9
+	Syracusis	1.7.8
+	Syracusano	1.7.ext.6
+	Syracusarum	1.7.ext.6
+	Syracusas	1.7.ext.8
+	Syracusani	1.7.ext.8
+	Syracusis	1.7.ext.8
+potit
+	potitus	1.1.8
+	potitus	1.6.3
+	potius	1.7.1
+	potissimumue	1.8.ext.18
+uot
+	uotis	1.1.8
+	uotis	1.7.ext.1
+consecra
+	consecrare	1.1.8
+	consecratum	1.1.19
+	consecrauit	1.7.ext.3
+	consecratum	1.8.4
+	consecrata	1.8.7
+inpedit
+	inpeditus	1.1.8
+	inpediri	1.6.8
+	inpedire	1.7.ext.5
+negan
+	negante	1.1.8
+	negatur	1.1.20
+	negantibus	1.6.6
+un
+	unam	1.1.8
+	unde	1.1.ext.2
+	unius	1.6.12
+	unde	1.7.1
+	unde	1.8.init.
+	unicam	1.8.2
+	unum	1.8.6
+	unde	1.8.10
+	unum	1.8.ext.12
+	undique	1.8.ext.19
+duob
+	duobus	1.1.8
+	duobus	1.1.8
+	duobus	1.1.20
+	duci	1.5.ext.2
+	duce	1.5.ext.2
+	duorum	1.6.2
+	duae	1.6.8
+	dulcissima	1.6.ext.3
+	duobus	1.7.ext.4
+	duce	1.7.ext.6
+	duos	1.8.1
+	duce	1.8.6
+	duos	1.8.ext.7
+rec
+	recte	1.1.8
+	recepta	1.1.10
+	recens	1.7.2
+	recte	1.8.ext.18
+futur
+	futurum	1.1.8
+	futurum	1.6.3
+	futurae	1.6.4
+	futurum	1.6.ext.2
+	futurum	1.7.ext.6
+	futurum	1.7.ext.7
+	futurum	1.7.ext.8
+prodig
+	prodigii	1.1.8
+	prodigium	1.6.1
+	prodigio	1.6.3
+	prodigia	1.6.5
+	prodigio	1.6.6
+	prodigia	1.6.7
+	prodigiorum	1.6.7
+	prodigio	1.6.8
+	prodigii	1.6.8
+	prodigia	1.6.11
+	prodigia	1.6.12
+	prodigium	1.6.ext.1
+	prodigium	1.6.ext.2
+	prodigiorum	1.6.ext.3
+	prodigiorum	1.7.ext.7
+accid
+	accidisset	1.1.8
+	acciderunt	1.6.1
+	acciderunt	1.6.5
+	acciderunt	1.6.7
+	acciderunt	1.8.init.
+dinoscer
+	dinosceretur	1.1.8
+	dinoscere	1.8.init.
+ut
+	utri	1.1.8
+	utrumque	1.1.ext.3
+	utili	1.1.ext.4
+	utrum	1.5.1
+	utinam	1.6.6
+	utraque	1.6.13
+	utrique	1.7.3
+	utrius	1.7.3
+	utebatur	1.7.ext.4
+	utero	1.7.ext.7
+	utriusque	1.8.6
+	utriusque	1.8.6
+	utili	1.8.10
+	utero	1.8.ext.5
+ni
+	nisi	1.1.8
+	nimia	1.5.2
+	nimbi	1.6.5
+	nihilque	1.6.6
+	nisi	1.7.4
+	nigri	1.7.7
+	nimbos	1.7.ext.1
+	nimiam	1.7.ext.10
+	nimius	1.8.10
+	nihil	1.8.11
+admonitio
+	admonitione	1.1.8
+	admonitionem	1.7.ext.3
+	admonitus	1.7.ext.3
+	admonitus	1.8.ext.9
+effect
+	effectum	1.1.8
+	effecitque	1.1.19
+	effecit	1.5.1
+	effectum	1.7.1
+simulac
+	simulacra	1.1.8
+	simulacrorum	1.1.ext.3
+	simulacris	1.5.8
+	simulacro	1.6.10
+	simulacrum	1.8.2
+	simulacrum	1.8.2
+	simulacrum	1.8.4
+neque
+	neque	1.1.8
+	neque	1.5.6
+	neque	1.6.3
+	neque	1.6.3
+	neque	1.6.5
+	neque	1.6.5
+	neque	1.6.8
+	neque	1.6.8
+	neque	1.8.2
+	neque	1.8.2
+	neque	1.8.2
+	neque	1.8.8
+	neque	1.8.ext.12
+am
+	amplissimi	1.1.8
+	amicis	1.1.ext.3
+	amplissimi	1.5.2
+	amnis	1.6.3
+	amplissimae	1.6.4
+	amplissimam	1.6.12
+	amicorum	1.7.4
+	amicae	1.7.ext.9
+	amplissima	1.8.2
+	amnis	1.8.ext.19
+adiect
+	adiectio	1.1.8
+	adiecerunt	1.6.13
+	adiecto	1.7.ext.2
+ten
+	tenor	1.1.8
+	tensa	1.1.16
+	tenacissima	1.8.ext.2
+Furi
+	Furius	1.1.9
+	Furio	1.8.2
+exemp
+	exemplique	1.1.9
+	exemplum	1.1.11
+	exegisse	1.1.17
+	exemplo	1.1.ext.4
+	exempla	1.5.ext.1
+	exempli	1.6.13
+	exemplo	1.6.ext.1
+	exemplum	1.7.2
+loc
+	locum	1.1.9
+	locum	1.1.19
+	locum	1.5.4
+	locum	1.5.ext.2
+	locum	1.6.8
+	locum	1.7.1
+	locum	1.7.8
+	locutum	1.8.4
+	locum	1.8.6
+	locum	1.8.10
+	locum	1.8.ext.9
+po
+	post	1.1.9
+	post	1.1.9
+	pontem	1.1.10
+	post	1.1.13
+	potuerunt	1.1.14
+	post	1.1.15
+	potuerit	1.1.15
+	posuisset	1.1.16
+	post	1.1.16
+	poenam	1.1.17
+	potissimum	1.1.19
+	poenas	1.1.19
+	post	1.1.20
+	poenas	1.1.ext.3
+	postea	1.5.2
+	post	1.5.4
+	post	1.5.7
+	potissimum	1.5.7
+	poenas	1.6.6
+	portu	1.6.7
+	potuit	1.6.8
+	potuit	1.6.10
+	potuit	1.6.10
+	potuit	1.6.11
+	pompa	1.7.4
+	poenam	1.7.4
+	pone	1.7.ext.1
+	postque	1.7.ext.1
+	poeta	1.7.ext.3
+	potissimum	1.7.ext.4
+	portam	1.7.ext.10
+	portam	1.7.ext.10
+	post	1.8.5
+	potest	1.8.8
+	posita	1.8.11
+	potuit	1.8.12
+	post	1.8.ext.1
+	potissimum	1.8.ext.2
+	portum	1.8.ext.14
+	poeta	1.8.ext.16
+	potissimum	1.8.ext.18
+inuen
+	inuenit	1.1.9
+	inuentum	1.6.9
+	inueniretur	1.8.6
+	inuenire	1.8.ext.8
+	inuenerunt	1.8.ext.15
+lau
+	laude	1.1.9
+	laude	1.5.2
+	laudes	1.8.ext.8
+praet
+	praetor	1.1.9
+	praetor	1.1.12
+	praeter	1.7.2
+	praeterit	1.8.7
+	praeter	1.8.11
+	praetorio	1.8.12
+Sali
+	Saliorum	1.1.9
+	Sami	1.5.ext.1
+	Saliorum	1.8.11
+iuss
+	iussus	1.1.9
+	iure	1.1.12
+	iussit	1.1.13
+	iustissime	1.1.13
+	iussisset	1.1.21
+	iussit	1.1.ext.3
+	iussisset	1.6.6
+	iure	1.6.ext.3
+	iussit	1.7.1
+	iussit	1.7.7
+	iussum	1.7.ext.4
+	iure	1.8.2
+	iussit	1.8.ext.9
+lictor
+	lictoribus	1.1.9
+	lictori	1.7.5
+quamu
+	quamuis	1.1.9
+	quamuis	1.6.8
+uacation
+	uacationem	1.1.9
+	uacatione	1.8.1
+offic
+	officii	1.1.9
+	officium	1.7.ext.6
+	officio	1.8.ext.7
+honor
+	honoris	1.1.9
+	honorem	1.6.13
+benefic
+	beneficio	1.1.9
+	beneficii	1.7.ext.3
+dux
+	duxit	1.1.9
+	duxit	1.1.ext.3
+	duxit	1.5.4
+maiestat
+	maiestatis	1.1.9
+	maiestatis	1.8.1
+conspi
+	conspici	1.1.9
+	conspici	1.1.ext.3
+quapropt
+	quapropter	1.1.9
+	quapropter	1.7.2
+	quapropter	1.8.ext.18
+serui
+	seruire	1.1.9
+	seruorum	1.1.17
+	seruum	1.7.4
+	seruos	1.7.7
+human
+	humanarum	1.1.9
+	humanum	1.6.5
+	humanis	1.7.ext.5
+	humanis	1.8.7
+	humanis	1.8.ext.12
+potenti
+	potentiae	1.1.9
+	potenter	1.1.ext.1
+	potentiae	1.6.4
+	potentissimum	1.7.ext.7
+	potentissimorum	1.8.ext.18
+atque
+	atque	1.1.9
+	atque	1.1.10
+	atque	1.1.ext.1
+	atque	1.1.ext.3
+	atque	1.1.ext.4
+	atque	1.5.ext.2
+	atque	1.6.ext.2
+	atque	1.7.6
+	atque	1.7.7
+	atque	1.7.ext.6
+	atque	1.7.ext.6
+	atque	1.8.2
+	atque	1.8.2
+	atque	1.8.6
+	atque	1.8.6
+	atque	1.8.6
+	atque	1.8.ext.17
+	atque	1.8.ext.19
+constant
+	constanter	1.1.9
+	constantia	1.1.15
+	constare	1.5.init.
+	constantibus	1.7.ext.10
+Qu
+	Quod	1.1.10
+	Quanto	1.1.15
+	Quae	1.1.ext.1
+	Quae	1.5.1
+	Quid	1.5.3
+	Quam	1.7.ext.2
+	Quid	1.8.6
+	Quae	1.8.ext.1
+	Quae	1.8.ext.10
+	Quid	1.8.ext.12
+	Quae	1.8.ext.19
+iudici
+	iudicium	1.1.10
+	iudicio	1.7.ext.5
+priuat
+	priuatorum	1.1.10
+	priuatae	1.1.10
+	priuato	1.6.12
+	priuatas	1.6.ext.1
+	priuatum	1.7.ext.6
+pector
+	pectoribus	1.1.10
+	pectus	1.6.12
+	pectore	1.6.ext.1
+Quirinal
+	Quirinalis	1.1.10
+	Quirinalem	1.1.11
+parti
+	partito	1.1.10
+	partibus	1.1.19
+	partes	1.6.5
+	partem	1.6.11
+	partes	1.7.7
+	partem	1.7.ext.1
+	partes	1.7.ext.5
+	partium	1.8.1
+	partes	1.8.2
+	partam	1.8.5
+	partis	1.8.6
+	partem	1.8.10
+	partem	1.8.10
+ferre
+	ferrent	1.1.10
+	ferrent	1.5.ext.2
+	ferarumque	1.6.11
+	ferretur	1.7.5
+	ferri	1.7.7
+	ferro	1.7.ext.4
+	ferri	1.7.ext.4
+	ferae	1.7.ext.4
+	ferreis	1.7.ext.6
+	ferre	1.7.ext.10
+	ferri	1.7.ext.10
+transgress
+	transgressas	1.1.10
+	transgresso	1.6.ext.1
+	transgressi	1.8.ext.2
+cliu
+	cliuum	1.1.10
+	clarissimi	1.5.3
+	clarissimo	1.8.ext.18
+duc
+	ducit	1.1.10
+	ducis	1.1.14
+	ducem	1.5.ext.1
+	ducis	1.6.2
+	ducem	1.7.ext.1
+Ianicul
+	Ianiculum	1.1.10
+	Ianiculo	1.1.12
+Albani
+	Albanius	1.1.10
+	Albanus	1.6.3
+plaust
+	plaustro	1.1.10
+	plaustro	1.1.10
+	plaustrum	1.1.10
+	plaustro	1.7.ext.10
+	plaustrum	1.7.ext.10
+coniug
+	coniugem	1.1.10
+	coniugesque	1.1.15
+liber
+	liberos	1.1.10
+	libertati	1.7.ext.6
+	liberatus	1.8.1
+	liberaret	1.8.ext.5
+	liberis	1.8.ext.18
+aspex
+	aspexisset	1.1.10
+	aspexit	1.7.ext.6
+propi
+	propior	1.1.10
+	propitio	1.6.13
+	propius	1.7.ext.4
+	propitia	1.8.ext.4
+public
+	publicae	1.1.10
+	publicae	1.1.10
+	publicae	1.1.11
+	publicorum	1.1.17
+	publicam	1.7.4
+	publici	1.8.8
+	publicae	1.8.10
+descendere
+	descenderent	1.1.10
+	descendere	1.8.10
+inposi
+	inposita	1.1.10
+	inpositum	1.8.ext.1
+omis
+	omisso	1.1.10
+	omisit	1.5.1
+	omine	1.5.6
+	omine	1.5.7
+	omini	1.5.ext.2
+itine
+	itinere	1.1.10
+	itinere	1.6.7
+	itinere	1.7.5
+peruex
+	peruexit	1.1.10
+	peruenisse	1.7.6
+ueneratio
+	ueneratione	1.1.10
+	uenerationem	1.1.11
+	uenerationem	1.1.19
+usque
+	usque	1.1.10
+	usque	1.6.12
+	usque	1.7.ext.5
+	usque	1.8.ext.8
+hospital
+	hospitalem	1.1.10
+	hospitis	1.6.8
+	hospitalis	1.7.ext.4
+	hospitem	1.7.ext.10
+	hospitio	1.7.ext.10
+	hospitio	1.8.2
+uoca
+	uocari	1.1.10
+	uocari	1.5.6
+	uocis	1.5.8
+	uocis	1.5.9
+	uocem	1.7.ext.8
+	uocis	1.8.9
+	uocis	1.8.10
+	uocem	1.8.12
+	uocem	1.8.ext.4
+	uocalis	1.8.ext.4
+	uocantur	1.8.ext.8
+	uocatur	1.8.ext.9
+sanc
+	sancte	1.1.10
+	sanctissimi	1.1.ext.1
+	sanctissima	1.6.13
+agres
+	agreste	1.1.10
+	agros	1.6.3
+	agrestium	1.7.ext.4
+ill
+	illud	1.1.10
+	illi	1.1.ext.1
+	illud	1.5.3
+	illa	1.5.4
+	illi	1.5.5
+	illis	1.5.6
+	illud	1.5.7
+	illud	1.5.7
+	illud	1.5.9
+	illi	1.5.ext.1
+	illi	1.5.ext.2
+	illa	1.6.2
+	illa	1.6.5
+	illae	1.6.11
+	illa	1.6.12
+	illum	1.6.ext.2
+	illae	1.6.ext.3
+	illae	1.6.ext.3
+	illum	1.7.1
+	illum	1.7.2
+	illo	1.7.2
+	ille	1.7.4
+	illud	1.7.5
+	illo	1.7.6
+	illuc	1.7.7
+	illo	1.7.8
+	illi	1.7.8
+	illo	1.7.ext.2
+	illi	1.7.ext.3
+	illa	1.7.ext.4
+	illum	1.7.ext.6
+	illud	1.8.init.
+	illo	1.8.1
+	illo	1.8.1
+	illis	1.8.5
+	illuc	1.8.6
+	illa	1.8.8
+	illud	1.8.10
+	illi	1.8.10
+	illa	1.8.11
+	illa	1.8.ext.2
+	illi	1.8.ext.3
+	illo	1.8.ext.4
+	illa	1.8.ext.12
+	illius	1.8.ext.14
+	illo	1.8.ext.16
+triumphal
+	triumphalis	1.1.10
+	triumphum	1.6.5
+curr
+	currus	1.1.10
+	currus	1.8.ext.9
+aequau
+	aequauerit	1.1.10
+	aequauit	1.6.7
+glori
+	gloriam	1.1.10
+	gloria	1.1.14
+	gloria	1.6.9
+	gloriae	1.6.12
+antecess
+	antecesserit	1.1.10
+	antecessit	1.6.ext.2
+tempesta
+	tempestate	1.1.11
+	tempestatis	1.1.ext.1
+	tempestatem	1.8.2
+Capitoli
+	Capitolium	1.1.11
+	Capitolium	1.1.11
+obsident
+	obsidentibus	1.1.11
+	obsidentibus	1.6.3
+cinct
+	cinctus	1.1.11
+	cinctis	1.7.ext.4
+man
+	manibus	1.1.11
+	manus	1.1.18
+	manibus	1.1.ext.3
+	mane'	1.6.7
+	manibus	1.6.11
+	manus	1.7.2
+	mandata	1.7.ext.4
+	manauit	1.8.7
+	mansit	1.8.11
+	manibus	1.8.ext.18
+medi
+	medias	1.1.11
+	media	1.1.ext.3
+	medico	1.7.1
+	mediocre	1.7.4
+	mediam	1.8.6
+	medicis	1.8.12
+	medicorum	1.8.ext.5
+hosti
+	hostium	1.1.11
+	hostis	1.5.5
+	hostibus	1.5.ext.2
+	hostium	1.6.2
+	hostium	1.6.3
+	hostiae	1.6.8
+	hostia	1.6.9
+	hostium	1.6.9
+	hostilibus	1.6.11
+	hostiarum	1.6.12
+	hostium	1.7.3
+	hostiarum	1.7.3
+	hostilis	1.7.ext.1
+	hostiles	1.8.1
+	hostium	1.8.6
+	hostes	1.8.6
+	hosti	1.8.8
+peruen
+	peruenit	1.1.11
+	peruenerat	1.6.7
+	peruenit	1.6.7
+	peruenisset	1.8.ext.16
+peract
+	peractis	1.1.11
+	peragi	1.1.15
+uictrici
+	uictricium	1.1.11
+	uictricia	1.5.5
+	uictricem	1.7.3
+uict
+	uictor	1.1.11
+	uictus	1.5.6
+	uictima	1.6.8
+	uictor	1.7.ext.8
+	uictor	1.8.5
+Mag
+	Magna	1.1.12
+	Magnus	1.5.6
+	Magni	1.8.9
+maior
+	maiores	1.1.12
+	maiore	1.1.15
+	maiorem	1.6.5
+	maiores	1.6.11
+	maiore	1.8.ext.18
+ac
+	acta	1.1.12
+	acie	1.5.6
+	acie	1.5.7
+	acie	1.5.ext.2
+	acri	1.6.3
+	acie	1.6.6
+	aciem	1.7.1
+	acie	1.7.3
+	acri	1.7.ext.4
+	aceruo	1.8.init.
+	acies	1.8.1
+	aciem	1.8.6
+	acie	1.8.8
+	acie	1.8.ext.1
+	acie	1.8.ext.14
+ag
+	agro	1.1.12
+	agro	1.6.4
+	agere	1.6.11
+	agmini	1.6.12
+	agro	1.8.1
+	agam	1.8.8
+	agro	1.8.ext.18
+Peti
+	Petili	1.1.12
+	Petilius	1.1.12
+	Petilius	1.5.9
+scrib
+	scribae	1.1.12
+	scribit	1.7.6
+	scribit	1.8.ext.1
+alti
+	altius	1.1.12
+	altum	1.1.ext.3
+	alter	1.7.2
+	alter	1.7.ext.10
+	alter	1.7.ext.10
+	alter	1.8.ext.5
+duab
+	duabus	1.1.12
+	duabus	1.8.6
+lapide
+	lapideis	1.1.12
+	lapidibus	1.6.5
+	lapidum	1.6.12
+	lapidis	1.8.ext.2
+repert
+	repertis	1.1.12
+	reperta	1.1.ext.1
+	repetisse	1.8.7
+	repertum	1.8.11
+alte
+	altera	1.1.12
+	altera	1.1.12
+	alterum	1.1.20
+	alterum	1.1.20
+	altera	1.6.11
+	altera	1.6.11
+	alteri	1.7.2
+	altera	1.7.3
+	altera	1.7.3
+	altero	1.8.7
+	altera	1.8.ext.5
+	altero	1.8.ext.11
+	alteram	1.8.ext.18
+	alteram	1.8.ext.18
+scriptu
+	scriptura	1.1.12
+	scriptum	1.1.ext.3
+indicab
+	indicabat	1.1.12
+	indices	1.6.ext.3
+	indicia	1.8.6
+corp
+	corpus	1.1.12
+	corpus	1.6.6
+	corpus	1.6.11
+	corde	1.6.13
+	corporis	1.7.1
+	cornu	1.7.3
+	corporis	1.7.4
+	corpus	1.7.ext.3
+	corporis	1.7.ext.4
+	corpus	1.7.ext.10
+	cornu	1.8.5
+	corpore	1.8.8
+	corpus	1.8.9
+	corpus	1.8.12
+	corporibus	1.8.ext.12
+	corporisque	1.8.ext.19
+Pompi
+	Pompili	1.1.12
+	Pompei	1.6.12
+	Pompei	1.8.9
+era
+	erant	1.1.12
+	erant	1.1.15
+	erant	1.1.17
+	erat	1.1.ext.3
+	erat	1.5.3
+	erat	1.5.9
+	ergo	1.6.3
+	ergo	1.6.7
+	erat	1.6.11
+	eras	1.6.13
+	ergo	1.7.1
+	erat	1.7.ext.2
+	erat	1.7.ext.4
+	erat	1.7.ext.4
+	erat	1.7.ext.10
+	erat	1.7.ext.10
+	erat	1.8.2
+	erat	1.8.2
+	erat	1.8.2
+	erat	1.8.2
+	erant	1.8.6
+	erat	1.8.ext.2
+	erat	1.8.ext.4
+	erat	1.8.ext.8
+	erat	1.8.ext.16
+Lati
+	Latini	1.1.12
+	Latinos	1.1.12
+	Latinis	1.6.ext.1
+	Latino	1.7.3
+	Latinio	1.7.4
+	Latina	1.8.4
+totid
+	totidemque	1.1.12
+	totius	1.6.12
+	totius	1.7.4
+	totius	1.7.ext.5
+mag
+	magna	1.1.12
+	magnus	1.1.15
+	magna	1.1.19
+	magnam	1.1.ext.1
+	magis	1.1.ext.2
+	magni	1.1.ext.3
+	magni	1.1.ext.4
+	magnoque	1.6.2
+	magnum	1.6.9
+	magna	1.6.11
+	magnum	1.6.12
+	magnae	1.7.3
+	magnam	1.7.4
+	magna	1.7.4
+	magno	1.7.ext.1
+	magis	1.7.ext.8
+	magno	1.8.init.
+	magnis	1.8.1
+	magno	1.8.2
+	magno	1.8.2
+	magna	1.8.6
+	magis	1.8.ext.18
+adseruand
+	adseruandos	1.1.12
+	adseruari	1.1.12
+curau
+	curauerunt	1.1.12
+	curauit	1.1.20
+	curauit	1.1.ext.2
+conspec
+	conspectu	1.1.12
+	conspectu	1.6.7
+	conspectum	1.6.13
+	conspectum	1.7.ext.2
+	conspectu	1.7.ext.3
+	conspectus	1.8.2
+	conspectu	1.8.ext.3
+nolu
+	noluerunt	1.1.12
+	nolle	1.1.ext.3
+quidqu
+	quidquam	1.1.12
+	quidquid	1.7.ext.1
+	quidquid	1.7.ext.4
+	quidquid	1.8.2
+Tarquini
+	Tarquinius	1.1.13
+	Tarquinio	1.8.5
+	Tarquinio	1.8.5
+Atili
+	Atilium	1.1.13
+	Atilius	1.1.14
+	Atilii	1.1.14
+	Atilii	1.8.ext.19
+secre
+	secreta	1.1.13
+	secum	1.8.5
+continent
+	continentem	1.1.13
+	continente	1.7.ext.6
+insut
+	insutum	1.1.13
+	insula	1.8.ext.18
+idque
+	idque	1.1.13
+	idque	1.7.8
+supplic
+	supplicii	1.1.13
+	supplicia	1.1.ext.3
+	supplicii	1.1.ext.3
+	supplicibus	1.5.8
+	supplicium	1.7.4
+	supplicium	1.7.7
+	supplicem	1.7.ext.4
+	supplicium	1.7.ext.10
+	supplicatio	1.8.6
+	supplicia	1.8.ext.8
+parricid
+	parricidis	1.1.13
+	parricidio	1.5.7
+	parricidium	1.6.13
+	parricidarum	1.7.2
+	parricidii	1.8.8
+le
+	lege	1.1.13
+	legati	1.1.21
+	lento	1.1.ext.3
+	leto	1.5.9
+	legati	1.6.3
+	legati	1.6.3
+	lectum	1.7.ext.10
+	leni	1.8.2
+	legati	1.8.2
+	legati	1.8.2
+	lectum	1.8.ext.5
+parent
+	parentum	1.1.13
+	parentibus	1.6.ext.2
+	parere	1.7.ext.7
+uiolat
+	uiolatio	1.1.13
+	uiolatam	1.7.ext.4
+expian
+	expianda	1.1.13
+	expiata	1.7.4
+adtine
+	adtinent	1.1.14
+	adtigi	1.7.1
+nesc
+	nescio	1.1.14
+	neci	1.7.ext.10
+Regul
+	Regulus	1.1.14
+	Reguli	1.8.ext.19
+speci
+	speciosissimo	1.1.14
+	speciosum	1.5.6
+	species	1.7.1
+	species	1.7.3
+	species	1.7.7
+	specie	1.7.ext.1
+	specus	1.8.10
+	speciem	1.8.ext.12
+insidi
+	insidiis	1.1.14
+	insidiis	1.6.8
+	insidiis	1.7.ext.10
+	insidias	1.8.ext.5
+Lacedaemon
+	Lacedaemonii	1.1.14
+	Lacedaemonis	1.6.ext.1
+miserabil
+	miserabilem	1.1.14
+	miserabilem	1.7.ext.9
+fortun
+	fortunam	1.1.14
+	fortuna	1.5.8
+	fortunam	1.6.12
+	fortunae	1.7.1
+	fortuna	1.7.ext.2
+	fortunae	1.7.ext.5
+	fortuna	1.7.ext.6
+	fortuna	1.8.ext.4
+	fortis	1.8.ext.5
+	fortunae	1.8.ext.5
+	fortunae	1.8.ext.17
+deduct
+	deductus	1.1.14
+	deductus	1.5.5
+	deductus	1.6.8
+	deducit	1.8.ext.18
+legat
+	legatus	1.1.14
+	legatis	1.8.2
+	legatos	1.8.2
+	legatorum	1.8.2
+	legatis	1.8.2
+conplur
+	conplures	1.1.14
+	conpluribus	1.8.ext.19
+Poen
+	Poenorum	1.1.14
+	Poenorum	1.6.8
+	Poenorum	1.6.9
+	Poenos	1.7.ext.8
+iuuen
+	iuuenes	1.1.14
+	iuuenem	1.7.ext.1
+	iuuenis	1.7.ext.4
+	iuuene	1.7.ext.6
+	iuuenes	1.8.1
+	iuuenis	1.8.6
+	iuuenes	1.8.ext.7
+contrari
+	contrarium	1.1.14
+	contrariam	1.6.11
+	contraria	1.8.6
+	contrarius	1.8.ext.11
+da
+	dato	1.1.14
+	dare	1.1.15
+	dare	1.1.ext.1
+	datus	1.5.7
+	datum	1.5.ext.1
+	datur'	1.5.ext.2
+	dari	1.6.11
+	daretur	1.7.2
+consil
+	consilio	1.1.14
+	consilio	1.1.ext.4
+	consilium	1.5.1
+	consilio	1.6.8
+	consilia	1.6.11
+	consilium	1.6.13
+	consilium	1.6.ext.1
+	consilio	1.7.4
+	consilio	1.7.ext.2
+	consilii	1.7.ext.3
+	consiliis	1.7.ext.5
+	consilio	1.8.10
+	consiliis	1.8.10
+Karthagin
+	Karthaginem	1.1.14
+	Karthagine	1.1.18
+	Karthagine	1.8.ext.19
+peti
+	petiit	1.1.14
+	petitum	1.8.2
+	petitam	1.8.2
+	petitam	1.8.ext.19
+ignar
+	ignarus	1.1.14
+	ignarus	1.8.9
+crudel
+	crudeles	1.1.14
+	crudeliter	1.1.14
+meri
+	merito	1.1.14
+	merito	1.5.2
+	meritoque	1.6.ext.3
+	merito	1.8.init.
+infest
+	infestos	1.1.14
+	infesta	1.7.ext.6
+	infestum	1.8.8
+reuerter
+	reuerteretur	1.1.14
+	reuerteretur	1.8.ext.8
+reddi
+	redditi	1.1.14
+	reddidisse	1.1.ext.2
+	redditum	1.8.6
+	reddita	1.8.ext.8
+	reddiderit	1.8.ext.18
+fore
+	forent	1.1.14
+	forte	1.5.1
+	foret	1.7.3
+saeuiti
+	saeuitiam	1.1.14
+	saeuitia	1.7.ext.4
+	saeuitia	1.8.ext.12
+ceter
+	ceterum	1.1.14
+	ceterorum	1.8.2
+	ceterum	1.8.ext.7
+	ceterum	1.8.ext.12
+clari
+	clarior	1.1.14
+	clade	1.6.6
+	clari	1.7.3
+	clarissimum	1.7.ext.7
+	clarioris	1.8.2
+	clari	1.8.ext.5
+Karthaginiens
+	Karthaginienses	1.1.14
+	Karthaginiensibus	1.1.16
+	Karthaginiensium	1.1.ext.3
+	Karthaginiensium	1.7.ext.8
+	Karthaginiensium	1.8.ext.14
+mor
+	moribus	1.1.14
+	morti	1.1.19
+	morbi	1.1.21
+	mores	1.1.ext.3
+	mortuus	1.1.ext.3
+	mortua	1.5.4
+	mortis	1.6.9
+	morbo	1.7.1
+	morbi	1.7.4
+	mortali	1.7.ext.1
+	mortali	1.8.8
+	morbo	1.8.10
+	mortuus	1.8.12
+	mortis	1.8.ext.1
+	morte	1.8.ext.3
+	morbi	1.8.ext.16
+tert
+	tertio	1.1.14
+	tertia	1.6.8
+	tertio	1.6.ext.1
+Puni
+	Punico	1.1.14
+	Punico	1.1.ext.2
+	Punicis	1.6.2
+	Punico	1.6.5
+spirit
+	spiritus	1.1.14
+	spiritu	1.7.1
+	spiritus	1.8.10
+interi
+	interitu	1.1.14
+	interiit	1.1.17
+	interitus	1.6.2
+	interitu	1.6.9
+	interitus	1.6.11
+	interiit	1.7.4
+	interitum	1.8.10
+	interitus	1.8.ext.11
+clad
+	cladem	1.1.15
+	clades	1.6.11
+	cladis	1.7.ext.4
+decreu
+	decreuit	1.1.15
+	decretique	1.1.20
+matron
+	matronae	1.1.15
+	matres	1.1.15
+	matronae	1.8.4
+	matris	1.8.ext.5
+ult
+	ultra	1.1.15
+	ultor	1.1.19
+	ulla	1.5.4
+	ullo	1.6.7
+	ultimam	1.6.12
+	ultimam	1.7.2
+	ulla	1.8.8
+	ulla	1.8.ext.12
+	ultimam	1.8.ext.16
+	ultima	1.8.ext.17
+	ultimum	1.8.ext.19
+luct
+	luctus	1.1.15
+	lucum	1.1.19
+	luce	1.7.3
+	lucemque	1.7.ext.1
+	luctui	1.7.ext.4
+	lucem	1.8.ext.5
+posse
+	possent	1.1.15
+	possent	1.6.3
+	possedit	1.8.10
+pae
+	paene	1.1.15
+	paene	1.6.3
+	paene	1.6.ext.2
+	paene	1.8.5
+iacen
+	iacente	1.1.15
+	iactu	1.5.8
+	iacentem	1.7.2
+	iacentem	1.7.8
+	iacens	1.7.ext.3
+	iacens	1.7.ext.9
+	iacuisse	1.8.ext.1
+	iactu	1.8.ext.19
+	iacentis	1.8.ext.19
+nulli
+	nullius	1.1.15
+	nulla	1.7.6
+	nullam	1.7.ext.1
+	nulla	1.7.ext.4
+	nullius	1.8.1
+	nullo	1.8.ext.5
+	nullum	1.8.ext.8
+soror
+	sorores	1.1.15
+	sororis	1.5.4
+nup
+	nuper	1.1.15
+	nuper	1.8.5
+interfect
+	interfectorum	1.1.15
+	interfectus	1.7.ext.9
+dolor
+	doloris	1.1.15
+	dolorem	1.5.6
+	dolorem	1.6.9
+	dolore	1.7.ext.4
+insign
+	insignibus	1.1.15
+	insignibus	1.7.5
+iniect
+	iniectus	1.1.15
+	iniectoque	1.1.ext.3
+	iniecit	1.7.ext.6
+ulteri
+	ulterius	1.1.15
+	ulterius	1.6.ext.1
+aduers
+	aduersus	1.1.15
+	aduersus	1.5.ext.1
+	aduersus	1.6.11
+	aduersa	1.6.12
+	aduersus	1.6.ext.1
+	aduersam	1.7.1
+	aduersus	1.7.ext.2
+saeuien
+	saeuiendi	1.1.15
+	saeuiens	1.8.ext.4
+	saeuiens	1.8.ext.7
+iniuri
+	iniuriarum	1.1.15
+	iniuriae	1.1.19
+acerbita
+	acerbitate	1.1.15
+	acerbitatem	1.7.ext.4
+	acerbitate	1.8.ext.2
+Iunon
+	Iunonis	1.1.16
+	Iunonis	1.1.20
+	Iunonis	1.1.ext.2
+	Iunonis	1.1.ext.2
+	Iunonis	1.8.2
+	Iunonis	1.8.2
+	Iunonem	1.8.2
+	Iunonis	1.8.ext.18
+lud
+	ludos	1.1.16
+	ludis	1.7.4
+	ludis	1.7.4
+	ludorum	1.7.4
+circens
+	circenses	1.1.16
+	circensibus	1.7.4
+puer
+	puerum	1.1.16
+	puerulo	1.6.1
+	puerum	1.6.5
+	puero	1.6.ext.2
+	puerosque	1.7.7
+ann
+	annos	1.1.16
+	annum	1.1.17
+	annis	1.8.ext.16
+repetit
+	repetitum	1.1.16
+	repetiit	1.7.ext.10
+expiat
+	expiatum	1.1.16
+	expiaturis	1.7.3
+Hercul
+	Hercules	1.1.17
+	Herculis	1.6.7
+detract
+	detractae	1.1.17
+	detracto	1.1.ext.3
+grau
+	grauem	1.1.17
+	grauiter	1.1.20
+manifest
+	manifestam	1.1.17
+	manifestis	1.1.19
+	manifesta	1.8.6
+trad
+	traditur	1.1.17
+	tradidisse	1.7.5
+	traditur	1.8.5
+	tradidit	1.8.6
+	tradita	1.8.7
+Potit
+	Potitii	1.1.17
+	Potitium	1.1.17
+do
+	dono	1.1.17
+	dolens	1.1.19
+	dono	1.1.ext.2
+	domum	1.5.3
+	domum	1.5.5
+	domos	1.6.ext.1
+	donata	1.6.ext.2
+	domum	1.7.4
+	dotibus	1.7.ext.4
+	domi	1.7.ext.4
+	donec	1.7.ext.5
+	domi	1.8.12
+App
+	Appio	1.1.17
+	Appius	1.1.17
+	Appii	1.8.10
+	Appio	1.8.10
+censo
+	censore	1.1.17
+	censoris	1.1.20
+ministeri
+	ministerium	1.1.17
+	ministerium	1.1.19
+transtuli
+	transtulissent	1.1.17
+	transtulit	1.1.20
+	transtulisse	1.6.ext.1
+famili
+	familias	1.1.17
+	familias	1.7.4
+	familiam	1.7.ext.5
+	familiares	1.7.ext.10
+	familiaris	1.7.ext.10
+diuis
+	diuisum	1.1.17
+	diuina	1.1.ext.3
+	diuina	1.5.init.
+	diuino	1.7.1
+	diuina	1.8.2
+	diuus	1.8.8
+	diuini	1.8.10
+lumin
+	luminibus	1.1.17
+	lumen	1.7.7
+	luminum	1.8.ext.14
+Ac
+	Acer	1.1.18
+	Actium	1.7.7
+	Acilii	1.8.12
+uind
+	uindex	1.1.18
+	uinum	1.6.ext.1
+oppres
+	oppressa	1.1.18
+	oppressus	1.5.2
+	oppressis	1.7.ext.8
+	oppressa	1.8.6
+	oppressit	1.8.ext.7
+aur
+	aurea	1.1.18
+	aureo	1.1.ext.3
+	aureum	1.1.ext.3
+	auream	1.1.ext.3
+	aureas	1.1.ext.3
+	aureas	1.1.ext.3
+	aurea	1.1.ext.4
+	aurem	1.5.8
+	aures	1.6.7
+	aurea	1.6.13
+	aures	1.7.6
+	auribusque	1.8.7
+sacrileg
+	sacrilegae	1.1.18
+	sacrilegium	1.1.ext.3
+	sacrilegia	1.1.ext.3
+	sacrilegis	1.1.ext.3
+effic
+	efficax	1.1.19
+	efficitque	1.8.ext.18
+contempt
+	contemptae	1.1.19
+	contemptor	1.8.1
+Aesculapi
+	Aesculapius	1.1.19
+	Aesculapio	1.1.ext.3
+	Aesculapius	1.8.2
+	Aesculapii	1.8.2
+	Aesculapii	1.8.2
+	Aesculapii	1.8.2
+Turull
+	Turullio	1.1.19
+	Turullium	1.1.19
+praefec
+	praefecto	1.1.19
+	praefectus	1.1.ext.2
+	praeferunt	1.6.11
+Anton
+	Antonii	1.1.19
+	Antonii	1.1.19
+	Antonio	1.5.7
+	Antii	1.6.5
+	Antonii	1.7.7
+nau
+	naues	1.1.19
+	nauem	1.6.7
+	nauem	1.7.ext.3
+	naui	1.7.ext.3
+	nautis	1.8.2
+	nauigio	1.8.2
+	naui	1.8.ext.11
+	nauem	1.8.ext.11
+	nata	1.8.ext.13
+	nati	1.8.ext.17
+nefari
+	nefarium	1.1.19
+	nefaria	1.1.ext.1
+	nefarium	1.5.7
+	nefariae	1.7.ext.4
+	nefarium	1.8.ext.3
+deuict
+	deuictis	1.1.19
+	deuicti	1.8.ext.13
+destinat
+	destinatum	1.1.19
+	destinatum	1.7.1
+	destinatum	1.7.ext.4
+	destinatam	1.7.ext.5
+milit
+	militibus	1.1.19
+	militum	1.5.9
+	milites	1.6.2
+	milites	1.6.11
+	militiae	1.6.11
+	militum	1.6.12
+	militarem	1.6.12
+	milites	1.8.2
+	militaribus	1.8.6
+	militibus	1.8.6
+	militibus	1.8.ext.19
+occis
+	occisus	1.1.19
+	occidisse	1.7.ext.2
+	occidisse	1.8.8
+eod
+	eodem	1.1.19
+	eodem	1.6.3
+	eodem	1.7.4
+	eodem	1.8.ext.5
+	eodem	1.8.ext.12
+	eodem	1.8.ext.17
+	eodemque	1.8.ext.17
+exit
+	exitio	1.1.19
+	exitus	1.6.8
+	exitus	1.7.3
+	exitum	1.7.6
+	exitii	1.7.8
+	exitio	1.7.ext.6
+	exitum	1.7.ext.9
+	exitii	1.8.ext.5
+luer
+	lueret	1.1.19
+	lueret	1.7.3
+adh
+	adhuc	1.1.19
+	adhuc	1.6.2
+	adhuc	1.7.2
+	adhuc	1.7.6
+	adhuc	1.7.ext.6
+	adhuc	1.8.8
+habuer
+	habuerat	1.1.19
+	habuerat	1.5.3
+	habuerunt	1.5.ext.1
+	habuit	1.6.9
+	habuit	1.7.6
+	habuisset	1.8.ext.8
+	habuit	1.8.ext.9
+	habuit	1.8.ext.12
+multiplicau
+	multiplicauit	1.1.19
+	multiplicem	1.8.2
+Flacc
+	Flaccus	1.1.20
+	Flaui	1.6.8
+inpu
+	inpune	1.1.20
+	inpulsu	1.8.6
+	inpulsu	1.8.10
+tegul
+	tegulas	1.1.20
+	tegulas	1.1.20
+Lacini
+	Laciniae	1.1.20
+	Laciniae	1.8.ext.18
+Fortun
+	Fortunae	1.1.20
+	Fortunae	1.8.4
+	Fortunae	1.8.9
+	Fortunae	1.8.11
+Illyri
+	Illyrico	1.1.20
+	Illyrico	1.5.ext.2
+adfect
+	adfectum	1.1.20
+	adfecit	1.7.7
+mot
+	motus	1.1.20
+	motusque	1.6.5
+	motus	1.7.2
+	motus	1.8.10
+Locr
+	Locros	1.1.20
+	Locris	1.1.ext.3
+reportand
+	reportandas	1.1.20
+	reportandos	1.1.ext.2
+Plemi
+	Plemini	1.1.21
+	Plemini	1.1.ext.1
+Scipion
+	Scipionis	1.1.21
+	Scipionum	1.6.2
+thesau
+	thesauro	1.1.21
+	thesauro	1.1.ext.1
+	thesauri	1.1.ext.1
+Proserpin
+	Proserpinae	1.1.21
+	Proserpinae	1.1.ext.3
+spolian
+	spoliando	1.1.21
+	spoliato	1.1.ext.3
+uinct
+	uinctum	1.1.21
+	uinctum	1.7.ext.6
+	uinctum	1.7.ext.8
+pertra
+	pertrahi	1.1.21
+	pertraxerunt	1.7.ext.8
+carce
+	carcere	1.1.21
+	carcerem	1.8.1
+	caruisse	1.8.ext.2
+gene
+	genere	1.1.21
+	generis	1.5.ext.1
+	generis	1.6.5
+	genere	1.6.ext.1
+	genere	1.6.ext.3
+	generis	1.7.ext.4
+	generis	1.7.ext.6
+consumpt
+	consumptus	1.1.21
+	consumptus	1.8.10
+	consumpta	1.8.11
+	consumptus	1.8.ext.16
+pecuni
+	pecuniam	1.1.21
+	pecuniam	1.1.ext.1
+	pecunia	1.1.ext.1
+	pecuniae	1.6.ext.2
+eiusd
+	eiusdem	1.1.21
+	eiusdem	1.5.ext.1
+	eiusdem	1.7.ext.7
+	eiusdem	1.8.ext.17
+recuperau
+	recuperauit	1.1.21
+	recuperare	1.6.2
+	recuperata	1.7.4
+	recuperari	1.8.2
+conscript
+	conscriptis	1.1.ext.1
+	conscriptis	1.5.1
+uiolent
+	uiolentas	1.1.ext.1
+	uiolentiam	1.7.1
+	uiolentia	1.7.ext.4
+	uiolentia	1.8.ext.9
+defend
+	defendit	1.1.ext.1
+	defendenda	1.8.6
+	defensa	1.8.ext.7
+onust
+	onustus	1.1.ext.1
+	onustis	1.6.ext.2
+nauigar
+	nauigaret	1.1.ext.1
+	nauigaret	1.7.ext.3
+to
+	tota	1.1.ext.1
+	toto	1.8.ext.9
+clas
+	classe	1.1.ext.1
+	classis	1.1.ext.2
+	classe	1.1.ext.3
+	classe	1.5.6
+	classe	1.5.ext.1
+	classibus	1.6.ext.1
+	classes	1.8.ext.14
+uicin
+	uicinis	1.1.ext.1
+	uicinum	1.5.ext.2
+	uicinam	1.8.10
+	uicina	1.8.ext.19
+litor
+	litoribus	1.1.ext.1
+	litore	1.5.6
+	litus	1.7.ext.3
+	litus	1.8.9
+restitu
+	restituta	1.1.ext.1
+	restituit	1.8.2
+	restituere	1.8.5
+similit
+	similiter	1.1.ext.2
+	similiter	1.7.ext.5
+Masinis
+	Masinissa	1.1.ext.2
+	Masinissae	1.1.ext.2
+Melit
+	Melitam	1.1.ext.2
+	Melitam	1.1.ext.2
+appul
+	appulisset	1.1.ext.2
+	appulisset	1.7.ext.3
+	appulerunt	1.8.2
+aeque
+	aeque	1.1.ext.2
+	aeque	1.5.2
+	aeque	1.6.9
+	aeque	1.7.4
+	aeque	1.8.12
+magnitudin
+	magnitudinis	1.1.ext.2
+	magnitudinis	1.6.7
+	magnitudinis	1.6.12
+	magnitudinis	1.7.7
+	magnitudinis	1.7.ext.1
+	magnitudinis	1.7.ext.4
+	magnitudinis	1.8.6
+	magnitudine	1.8.ext.11
+	magnitudinis	1.8.ext.19
+sublat
+	sublatos	1.1.ext.2
+	sublatus	1.8.ext.1
+adtul
+	adtulisset	1.1.ext.2
+	adtulit	1.8.12
+aduec
+	aduecti	1.1.ext.2
+	aduectos	1.8.7
+inque
+	inque	1.1.ext.2
+	inquit	1.5.4
+	inquit	1.7.ext.1
+	inque	1.8.2
+	inquit	1.8.10
+	inquit	1.8.ext.10
+conlocand
+	conlocandos	1.1.ext.2
+	conlocando	1.7.ext.5
+libent
+	libenter	1.1.ext.2
+	libenter	1.5.ext.1
+sangui
+	sanguini	1.1.ext.2
+	sanguinem	1.6.5
+	sanguine	1.6.5
+	sanguinem	1.6.ext.1
+	sanguini	1.7.ext.1
+	sanguine	1.7.ext.4
+	sanguinis	1.7.ext.7
+conuenie
+	conueniens	1.1.ext.2
+	conuenire	1.1.ext.3
+	conuenerunt	1.6.11
+	conuenitque	1.7.3
+	conuenientem	1.7.ext.1
+natio
+	natione	1.1.ext.3
+	natum	1.6.1
+	natum	1.6.5
+	natumque	1.7.ext.5
+	natus	1.8.ext.5
+perpen
+	perpendi	1.1.ext.3
+	perpendere	1.6.12
+barbar
+	barbaria	1.1.ext.3
+	barbam	1.1.ext.3
+	barbarorum	1.6.11
+genit
+	genitus	1.1.ext.3
+	genitali	1.7.ext.5
+	genitus	1.8.ext.16
+	genitam	1.8.ext.17
+	genitas	1.8.ext.18
+Dionysi
+	Dionysius	1.1.ext.3
+	Dionysio	1.7.ext.6
+	Dionysium	1.7.ext.6
+	Dionysi	1.7.ext.7
+iocos
+	iocosis	1.1.ext.3
+	iocum	1.8.2
+proseq
+	prosequi	1.1.ext.3
+	prosequi	1.8.ext.18
+secun
+	secundo	1.1.ext.3
+	secunda	1.6.1
+	secundo	1.6.5
+	secundum	1.6.9
+	secuti	1.8.ext.17
+'qu
+	'quam	1.1.ext.3
+	'quid	1.8.8
+	'qui	1.8.9
+bo
+	bona	1.1.ext.3
+	bonorum	1.1.ext.3
+	bona	1.1.ext.3
+	bona	1.5.2
+	boario	1.6.5
+	bouem	1.6.5
+	boue	1.6.13
+	bono	1.8.2
+	bonae	1.8.ext.18
+Olymp
+	Olympio	1.1.ext.3
+	Olympi	1.7.ext.4
+ponder
+	ponderis	1.1.ext.3
+	ponderis	1.1.ext.4
+	ponderosis	1.8.ext.19
+amicu
+	amiculo	1.1.ext.3
+	amiculum	1.1.ext.3
+tyrann
+	tyrannus	1.1.ext.3
+	tyranno	1.7.ext.6
+Ge
+	Gelo	1.1.ext.3
+	Genuam	1.6.7
+lan
+	laneo	1.1.ext.3
+	laneum	1.1.ext.3
+	lanceam	1.7.ext.4
+pall
+	pallio	1.1.ext.3
+	palam	1.7.6
+	pallio	1.7.ext.9
+dix
+	dixit	1.1.ext.3
+	dixisset	1.5.9
+	dixissent	1.5.ext.2
+	dixerat	1.6.3
+	dixissent	1.6.8
+	dixerunt	1.6.ext.3
+	dixit	1.7.8
+	dixisset	1.8.6
+	dixit	1.8.9
+Epidau
+	Epidauri	1.1.ext.3
+	Epidauro	1.8.2
+	Epidauri	1.8.2
+	Epidauri	1.8.2
+argente
+	argenteas	1.1.ext.3
+	argento	1.6.ext.2
+Victori
+	Victorias	1.1.ext.3
+	Victoriae	1.6.12
+coron
+	coronas	1.1.ext.3
+	coronam	1.8.6
+accipe
+	accipere	1.1.ext.3
+	accipere	1.5.1
+argumentan
+	argumentando	1.1.ext.3
+	argumentum	1.7.ext.5
+	argumentum	1.8.6
+precam
+	precamur	1.1.ext.3
+	precibus	1.7.ext.10
+	preces	1.8.4
+tamet
+	tametsi	1.1.ext.3
+	tamen	1.1.ext.3
+	tamen	1.6.8
+	tamen	1.7.8
+	tamen	1.7.ext.4
+	tamen	1.7.ext.10
+	tamen	1.8.ext.3
+	tamen	1.8.ext.9
+pepend
+	pependit	1.1.ext.3
+	pependisset	1.6.6
+	pependisset	1.7.4
+	pependit	1.8.ext.8
+uiu
+	uiuus	1.1.ext.3
+	uiuere	1.8.12
+effuger
+	effugerat	1.1.ext.3
+	effugit	1.5.5
+	effugit	1.8.ext.9
+proced
+	procedit	1.1.ext.3
+	procul	1.5.5
+	procul	1.6.12
+	procul	1.7.3
+incider
+	incideret	1.1.ext.4
+	incidit	1.6.10
+	incidit	1.6.ext.1
+	incidit	1.7.8
+	incidit	1.8.ext.8
+excep
+	excepta	1.1.ext.4
+	excepto	1.8.2
+	excepisset	1.8.ext.2
+fre
+	freto	1.1.ext.4
+	freto	1.8.10
+ciu
+	ciuibus	1.1.ext.4
+	ciuis	1.6.8
+Pyth
+	Pythio	1.1.ext.4
+	Pythicae	1.8.10
+incita
+	incitato	1.1.ext.4
+	incitatissimo	1.8.6
+fortui
+	fortuito	1.5.init.
+	fortuito	1.5.3
+	fortuitum	1.5.9
+credu
+	creduntur	1.5.init.
+	credo	1.5.1
+	creditur	1.7.ext.2
+	creuisse	1.7.ext.5
+Vei
+	Veios	1.5.1
+	Veios	1.5.1
+	Veios	1.6.3
+migrare
+	migrarent	1.5.1
+	migrare	1.8.2
+moen
+	moenia	1.5.1
+	moenibus	1.5.ext.2
+	moenia	1.6.3
+	moenia	1.6.9
+	moenia	1.7.ext.6
+	moenia	1.7.ext.8
+praesid
+	praesidio	1.5.1
+	praesidium	1.5.ext.1
+	praesidio	1.6.13
+	praesidium	1.8.2
+cohort
+	cohortibus	1.5.1
+	cohortibus	1.8.ext.19
+sign
+	signum	1.5.1
+	signo	1.5.7
+	signa	1.6.6
+	signa	1.6.6
+	signa	1.6.11
+	signa	1.6.12
+	signa	1.6.12
+	signum	1.6.13
+	signis	1.8.6
+respond
+	respondit	1.5.1
+	respondit	1.5.3
+	respondit	1.5.6
+	respondere	1.5.8
+	responderunt	1.5.ext.2
+	respondit	1.6.9
+	responderunt	1.6.ext.2
+	respondisse	1.7.7
+	respondit	1.8.2
+uestig
+	uestigioque	1.5.1
+	uestigium	1.6.ext.1
+	uestigioque	1.7.4
+	uestigia	1.7.ext.1
+	uestigioque	1.8.2
+pauc
+	paucis	1.5.1
+	paucis	1.6.9
+	paulo	1.7.ext.10
+confirma
+	confirmata	1.5.1
+	confirmauit	1.5.9
+indign
+	indignum	1.5.1
+	indignam	1.7.1
+Veientan
+	Veientanae	1.5.1
+	Veientes	1.6.3
+	Veientibus	1.8.5
+	Veientes	1.8.5
+muta
+	mutari	1.5.1
+	mutatum	1.6.5
+	mutus	1.8.ext.4
+abiect
+	abiectae	1.5.1
+	abiectumque	1.5.8
+ruin
+	ruinis	1.5.1
+	ruinam	1.6.11
+	ruinae	1.8.ext.7
+Camill
+	Camillus	1.5.2
+	Camillo	1.8.2
+felicit
+	felicitas	1.5.2
+	felicitatis	1.6.ext.3
+	felicitatem	1.7.ext.5
+	felicitate	1.8.ext.7
+inuid
+	inuidia	1.5.2
+	inuidiam	1.6.12
+	inuias	1.7.5
+	inuidiae	1.8.ext.2
+incommo
+	incommodo	1.5.2
+	incommodo	1.7.4
+	incommodum	1.8.ext.12
+lap
+	lapsu	1.5.2
+	lapso	1.6.6
+uis
+	uisum	1.5.2
+	uisus	1.6.7
+	uisum	1.7.3
+	uisum	1.8.2
+	uisam	1.8.ext.19
+transfer
+	transferri	1.5.2
+	transferretur	1.7.ext.5
+Pau
+	Paulo	1.5.3
+	Paulus	1.5.3
+	Paulo	1.8.1
+	Pauli	1.8.1
+euen
+	euenit	1.5.3
+	euentum	1.5.4
+	euentus	1.5.7
+	euentus	1.6.2
+	euenit	1.6.8
+	euentus	1.6.ext.1
+	euenit	1.7.5
+	euentu	1.7.8
+	euentu	1.7.ext.7
+	euentu	1.8.6
+	euentum	1.8.10
+Per
+	Perse	1.5.3
+	Persam	1.5.3
+	Persa	1.5.3
+	Pergami	1.6.12
+	Persarum	1.7.ext.5
+	Persen	1.8.1
+	Persen	1.8.1
+gerer
+	gereret	1.5.3
+	gereretur	1.8.6
+regress
+	regressus	1.5.3
+	regressu	1.6.ext.1
+trist
+	tristem	1.5.3
+	tristis	1.6.8
+	tristi	1.6.9
+	tristi	1.6.10
+	tristitia	1.6.12
+	tristi	1.7.5
+interrogau
+	interrogauit	1.5.3
+	interrogauit	1.5.6
+	interrogauit	1.7.ext.1
+	interrogatoque	1.7.ext.6
+	interrogata	1.8.2
+uul
+	uultu	1.5.3
+	uultu	1.6.9
+	uultu	1.7.5
+	uultu	1.8.8
+	uulnus	1.8.ext.2
+	uulnus	1.8.ext.5
+puel
+	puella	1.5.3
+	puella	1.5.4
+sp
+	spem	1.5.3
+	spem	1.5.6
+	spicas	1.6.5
+	spreti	1.6.11
+	spatio	1.6.12
+	sponte	1.6.12
+	spreuisse	1.6.13
+	spem	1.7.5
+	sponte	1.8.ext.10
+praesumps
+	praesumpsit	1.5.3
+	praesumpsit	1.6.10
+	praesumpserat	1.7.ext.8
+Caecil
+	Caecilia	1.5.4
+	Caecilia	1.5.4
+aetat
+	aetatis	1.5.4
+	aetatem	1.8.ext.16
+concub
+	concubia	1.5.4
+	concubia	1.7.7
+	concubitum	1.8.ext.3
+aliquamd
+	aliquamdiu	1.5.4
+	aliquamdiu	1.8.1
+	aliquamdiu	1.8.12
+proposi
+	proposito	1.5.4
+	proposito	1.6.1
+	proposito	1.6.ext.1
+	proposito	1.7.4
+	proposito	1.7.ext.1
+	propositum	1.7.ext.10
+congrue
+	congruens	1.5.4
+	congruerunt	1.7.3
+rogau
+	rogauit	1.5.4
+	rogare	1.7.2
+	rogum	1.8.9
+	rogus	1.8.12
+	rogum	1.8.12
+residen
+	residendi	1.5.4
+	residentes	1.8.1
+ti
+	tibi	1.5.4
+	tibi	1.6.5
+	timuit	1.6.10
+	tium	1.6.10
+	tibi	1.6.13
+omin
+	ominis	1.5.4
+	ominis	1.5.5
+dub
+	dubio	1.5.5
+	dubiam	1.8.2
+	dubio	1.8.6
+neglec
+	neglecto	1.5.5
+	neglecti	1.7.4
+aqu
+	aquam	1.5.5
+	aquam	1.6.3
+	aquas	1.6.5
+	aquilarum	1.6.11
+	aquae	1.8.ext.18
+	aquam	1.8.ext.18
+spectacu
+	spectaculo	1.5.5
+	spectaculo	1.7.8
+	spectaculum	1.7.ext.6
+	spectaculo	1.8.2
+	spectaculum	1.8.ext.5
+sequer
+	sequeretur	1.5.5
+	sequitur	1.6.4
+oblat
+	oblatum	1.5.5
+	oblatus	1.7.ext.10
+	oblati	1.8.6
+alioqu
+	alioquin	1.5.5
+	alioquin	1.6.12
+interpretand
+	interpretandarum	1.5.5
+	interpretati	1.5.ext.1
+multitudi
+	multitudine	1.5.5
+	multitudine	1.6.9
+ferend
+	ferendam	1.5.5
+	ferens	1.8.2
+protin
+	protinus	1.5.5
+	protinusque	1.7.8
+	protinus	1.7.ext.10
+conscend
+	conscendit	1.5.5
+	conscenderet	1.6.7
+	conscendit	1.7.ext.6
+	conscendit	1.8.2
+	conscendit	1.8.6
+Sull
+	Sullae	1.5.5
+	Sulla	1.6.4
+	Sunt	1.8.11
+Pompei
+	Pompeius	1.5.6
+	Pompeium	1.6.12
+	Pompeius	1.8.9
+	Pompeius	1.8.10
+	Pompeio	1.8.ext.13
+Pharsali
+	Pharsalica	1.5.6
+	Pharsalicum	1.8.10
+insul
+	insulam	1.5.6
+	insulam	1.8.2
+direx
+	direxit	1.5.6
+	dirum	1.6.10
+	dirum	1.7.7
+	dirum	1.7.ext.6
+	dirum	1.8.ext.2
+restab
+	restabat	1.5.6
+	restabat	1.7.2
+auert
+	auertit	1.5.6
+	auerti	1.7.3
+tect
+	tectis	1.5.6
+	tectum	1.8.6
+patefec
+	patefecit	1.5.6
+	patefecerunt	1.6.3
+Bru
+	Bruti	1.5.7
+	Bruttis	1.6.9
+	Bruto	1.7.1
+	Bruttii	1.8.6
+natal
+	natalem	1.5.7
+	natali	1.8.ext.16
+celebra
+	celebrans	1.5.7
+	celebrandum	1.8.6
+Philippen
+	Philippensi	1.5.7
+	Philippensi	1.8.8
+	Philippus	1.8.ext.9
+conuert
+	conuertit	1.5.7
+	conuerso	1.6.5
+	conuerso	1.6.7
+	conuertit	1.6.11
+	conuersa	1.6.12
+Cass
+	Cassii	1.5.8
+	Cassius	1.7.7
+	Cassius	1.8.8
+	Cassi	1.8.8
+orant
+	orantibus	1.5.8
+	orantem	1.7.ext.10
+Sol
+	Solem	1.5.8
+	Solis	1.5.8
+relinq
+	relinqui	1.5.8
+	relinquere	1.5.8
+rap
+	rapacissimi	1.5.8
+	raptus	1.6.3
+	raro	1.8.2
+	rapida	1.8.ext.10
+Macedoni
+	Macedonica	1.5.8
+	Macedoniae	1.7.ext.2
+	Macedonico	1.8.1
+	Macedonum	1.8.ext.9
+	Macedonia	1.8.ext.18
+pug
+	pugna	1.5.8
+	pugna	1.6.7
+	pugnae	1.7.ext.8
+effigi
+	effigiem	1.5.8
+	effigiem	1.7.6
+tantummo
+	tantummodo	1.5.8
+	tantummodo	1.7.2
+occid
+	occiderit	1.5.9
+	occideretur	1.6.8
+	occidisset	1.7.6
+	occideras	1.8.8
+	occidit	1.8.ext.9
+mont
+	montem	1.5.9
+	montem	1.6.ext.1
+	montem	1.6.ext.3
+	montis	1.7.3
+	montis	1.7.ext.4
+	montis	1.8.2
+Le
+	Leto	1.5.9
+	Letum	1.5.9
+proelian
+	proeliando	1.5.9
+	proeliis	1.5.ext.2
+	proelium	1.6.11
+	proelium	1.8.6
+iact
+	iactum	1.5.9
+	iacturas	1.6.11
+possu
+	possunt	1.5.ext.1
+	possunt	1.6.ext.1
+auxili
+	auxilium	1.5.ext.1
+	auxilium	1.7.ext.4
+	auxilium	1.7.ext.10
+	auxilio	1.8.2
+	auxilium	1.8.6
+	auxilii	1.8.6
+	auxiliumque	1.8.12
+	auxilium	1.8.ext.18
+Car
+	Caras	1.5.ext.1
+	Carris	1.6.11
+instinc
+	instincti	1.5.ext.1
+	instinctu	1.6.ext.3
+	instincta	1.8.10
+exerci
+	exercitu	1.5.ext.1
+	exercituum	1.6.2
+	exercitum	1.6.4
+	exercitum	1.6.9
+	exercitum	1.6.11
+	exercitus	1.6.12
+	exercitu	1.6.ext.1
+	exercitus	1.7.1
+	exercitum	1.7.3
+	exercitum	1.7.ext.8
+	exercitus	1.8.5
+	exercitum	1.8.ext.19
+fat
+	fatorum	1.5.ext.1
+	fatis'	1.7.ext.1
+	fatorum	1.7.ext.5
+	fatum	1.7.ext.6
+	fatalis	1.8.2
+pres
+	pressi	1.5.ext.2
+	pressus	1.7.6
+flum
+	flumen	1.5.ext.2
+	fluxisse	1.6.5
+	flumen	1.8.ext.19
+Aeant
+	Aeantem	1.5.ext.2
+	Aeanti	1.5.ext.2
+mitte
+	mittere	1.5.ext.2
+	mitteretur	1.7.ext.4
+prim
+	primum	1.5.ext.2
+	primum	1.6.9
+	primis	1.8.init.
+	primum	1.8.6
+success
+	successum	1.5.ext.2
+	successus	1.6.4
+	successioni	1.7.ext.4
+accept
+	acceptum	1.5.ext.2
+	acceptus	1.8.ext.7
+immolau
+	immolauerunt	1.5.ext.2
+	immolauerat	1.6.8
+Seru
+	Seruio	1.6.1
+	Serui	1.8.11
+	Seruilio	1.8.11
+Tull
+	Tullio	1.6.1
+	Tuas	1.6.13
+	Tulli	1.8.11
+dormien
+	dormienti	1.6.1
+	dormienti	1.6.ext.2
+	dormientis	1.6.ext.3
+	dormiens	1.7.ext.9
+cir
+	circa	1.6.1
+	circum	1.7.4
+flamm
+	flammam	1.6.1
+	flammis	1.8.11
+	flammis	1.8.12
+An
+	Anci	1.6.1
+	Antium	1.8.2
+ux
+	uxor	1.6.1
+	uxorem	1.7.2
+	uxor	1.8.ext.3
+admira
+	admirata	1.6.1
+	admirabile	1.6.ext.1
+fastigi
+	fastigium	1.6.1
+	fastigio	1.6.12
+	fastigio	1.7.2
+Aeque
+	Aeque	1.6.2
+	Aeque	1.8.ext.7
+Hispan
+	Hispania	1.6.2
+	Hispaniam	1.6.7
+aspec
+	aspectu	1.6.2
+	aspectu	1.6.5
+	aspectum	1.7.7
+	aspectu	1.8.8
+paui
+	pauidi	1.6.2
+	pauido	1.6.ext.1
+pristin
+	pristinam	1.6.2
+	pristinam	1.8.2
+	pristinum	1.8.5
+	pristinum	1.8.7
+fortitudin
+	fortitudinem	1.6.2
+	fortitudinem	1.8.6
+caes
+	caesis	1.6.2
+	caesa	1.6.6
+	caesa	1.6.8
+	caesare	1.6.ext.1
+	caelo	1.7.2
+	caeli	1.7.ext.1
+	caeli	1.7.ext.6
+	caelo	1.8.2
+	caesa	1.8.6
+potestat
+	potestatem	1.6.2
+	potestatem	1.6.3
+bi
+	bina	1.6.2
+	biduoque	1.8.ext.1
+cast
+	castra	1.6.2
+	castra	1.6.3
+	castra	1.6.4
+	casus	1.6.13
+	castra	1.7.1
+	castris	1.7.3
+	casus	1.7.4
+	casus	1.7.6
+	casus	1.7.ext.4
+	castris	1.7.ext.8
+	castra	1.8.6
+	castra	1.8.6
+	castra	1.8.6
+	casus	1.8.9
+	casus	1.8.ext.1
+	casus	1.8.ext.3
+	casus	1.8.ext.11
+	castra	1.8.ext.19
+refer
+	referta	1.6.2
+	referam	1.7.1
+	refertum	1.7.ext.4
+	referret	1.8.1
+	refertum	1.8.ext.15
+	referuntur	1.8.ext.17
+It
+	Item	1.6.3
+	Italia	1.6.9
+	Italia	1.6.9
+	Item	1.8.1
+diuti
+	diutino	1.6.3
+	diutini	1.8.2
+conpul
+	conpulsi	1.6.3
+	conpulso	1.7.8
+	conpulsus	1.7.ext.10
+exoptat
+	exoptatae	1.6.3
+	exoptatum	1.6.13
+	exoptatae	1.8.2
+lac
+	lacus	1.6.3
+	lacus	1.6.3
+	lacum	1.6.6
+	lacum	1.8.1
+	lacum	1.8.1
+ulli
+	ullius	1.6.3
+	ullius	1.7.2
+excess
+	excessit	1.6.3
+	excessum	1.8.ext.10
+explorand
+	explorandae	1.6.3
+	explorare	1.8.10
+Delphic
+	Delphicum	1.6.3
+	Delphicae	1.8.10
+	Delphis	1.8.ext.8
+oracul
+	oraculum	1.6.3
+	oraculo	1.8.ext.8
+	oraculo	1.8.ext.9
+praeci
+	praecipi	1.6.3
+	praecipua	1.8.2
+	praecipuo	1.8.6
+	praecipue	1.8.ext.2
+emiss
+	emissam	1.6.3
+	emissi	1.6.7
+	emissa	1.8.8
+arusp
+	aruspex	1.6.3
+	aruspicis	1.6.4
+	aruspices	1.6.8
+	aruspex	1.6.9
+	aruspice	1.6.13
+interpret
+	interpretes	1.6.3
+	interpretes	1.6.ext.3
+	interprete	1.7.ext.7
+perlat
+	perlatus	1.6.3
+	perlatus	1.7.4
+dupli
+	duplici	1.6.3
+	duplex	1.6.9
+	duplici	1.8.ext.13
+prospe
+	prosperi	1.6.4
+	prospexit	1.6.4
+	prosperam	1.8.2
+Nola
+	Nolano	1.6.4
+	Nolana	1.6.9
+angu
+	anguem	1.6.4
+	anguis	1.6.7
+	angues	1.6.8
+	anguis	1.8.2
+	anguis	1.8.2
+	anguis	1.8.2
+horta
+	hortatu	1.6.4
+	hortari	1.8.6
+contin
+	continuo	1.6.4
+	continuo	1.6.6
+	continuo	1.8.2
+	continuo	1.8.ext.7
+	continuo	1.8.ext.18
+grad
+	gradus	1.6.4
+	gradum	1.8.6
+extit
+	extitit	1.6.4
+	extitit	1.6.ext.2
+	extiterunt	1.6.ext.3
+admiration
+	admirationis	1.6.5
+	admirationis	1.7.3
+	admiratione	1.7.4
+	admirationem	1.8.2
+	admirationem	1.8.2
+	admirationis	1.8.12
+	admirationis	1.8.ext.14
+	admiratione	1.8.ext.18
+sermon
+	sermonem	1.6.5
+	sermonem	1.7.6
+	sermone	1.7.8
+	sermone	1.7.ext.6
+	sermone	1.8.1
+monst
+	monstri	1.6.5
+	monstra	1.6.5
+	monstrorum	1.6.11
+	monstri	1.6.ext.1
+	monstri	1.7.ext.1
+	monstri	1.8.ext.3
+cecid
+	ceciderunt	1.6.5
+	cecidit	1.6.9
+odo
+	odore	1.6.5
+	odio	1.8.6
+taet
+	taetro	1.6.5
+	taetro	1.7.7
+defor
+	deformi	1.6.5
+	deforme	1.8.ext.12
+	deformis	1.8.ext.13
+iacu
+	iacuit	1.6.5
+	iacuisset	1.8.12
+credi
+	credita	1.6.5
+	credidit	1.7.ext.8
+	credidit	1.8.2
+	creditum	1.8.6
+	creditus	1.8.12
+infant
+	infantem	1.6.5
+	infantiaeque	1.6.ext.2
+pl
+	pluisse	1.6.5
+	plebe	1.7.4
+	placuisse	1.7.4
+	plus	1.8.5
+	pleno	1.8.ext.2
+uigi
+	uigili	1.6.5
+	uigiliae	1.7.ext.1
+	uiginti	1.8.ext.19
+uagi
+	uagina	1.6.5
+	uagitu	1.8.ext.5
+gladi
+	gladium	1.6.5
+	gladio	1.7.8
+	gladio	1.7.ext.4
+	gladio	1.8.ext.5
+	gladii	1.8.ext.9
+Hanniba
+	Hannibale	1.6.6
+	Hannibale	1.6.6
+	Hannibalis	1.6.9
+	Hannibalis	1.7.ext.1
+conuel
+	conuelli	1.6.6
+	conuelli	1.6.11
+eq
+	equo	1.6.6
+	equo	1.8.8
+prostrat
+	prostratus	1.6.6
+	prostratos	1.8.6
+moue
+	moueri	1.6.6
+	mouere	1.8.2
+mal
+	malum	1.6.6
+	maluisset	1.7.ext.3
+	malaeque	1.8.ext.18
+temeritat
+	temeritatis	1.6.6
+	temeritatem	1.6.8
+tant
+	tantum	1.6.6
+	tantam	1.6.11
+	tantum	1.6.11
+	tantorum	1.6.13
+	tanti	1.6.ext.1
+	tantum	1.7.ext.1
+	tanti	1.8.2
+	tantus	1.8.5
+	tantum	1.8.10
+	tantum	1.8.ext.2
+	tantum	1.8.ext.5
+	tantum	1.8.ext.16
+	tantam	1.8.ext.17
+	tantum	1.8.ext.18
+	tantae	1.8.ext.19
+quaesit
+	quaesitum	1.6.6
+	quaesiti	1.6.7
+	quaesitus	1.8.2
+quant
+	quantum	1.6.6
+	quantum	1.8.ext.8
+praecipit
+	praecipitem	1.6.7
+	praecipitatus	1.8.ext.8
+perseuerant
+	perseuerantia	1.6.7
+	perseuerans	1.7.4
+ha
+	haec	1.6.7
+	haec	1.6.11
+	haec	1.6.13
+	hanc	1.7.7
+	hausit	1.7.ext.1
+	haud	1.7.ext.9
+	haud	1.8.2
+	habita	1.8.6
+	habitu	1.8.8
+	haec	1.8.ext.18
+	haustu	1.8.ext.18
+Lauin
+	Lauinii	1.6.7
+	Lauini	1.8.7
+pul
+	pulli	1.6.7
+	pullum	1.6.11
+	pulsus	1.7.5
+proxim
+	proximam	1.6.7
+	proxima	1.6.9
+	proximo	1.7.1
+	proximo	1.7.2
+	proxima	1.7.3
+	proximis	1.7.4
+	proximo	1.7.5
+	proximo	1.7.8
+	proximo	1.7.ext.3
+	proximo	1.7.ext.8
+	proxima	1.8.5
+silu
+	siluam	1.6.7
+	silua	1.8.5
+ped
+	pedibus	1.6.7
+	pedibus	1.7.4
+	pedibusque	1.7.ext.6
+	pedem	1.8.1
+	pedum	1.8.ext.19
+tal
+	talis	1.6.7
+	talium	1.6.ext.1
+	talis	1.7.7
+	talibus	1.8.ext.2
+scaph
+	scapham	1.6.7
+	scaphae	1.8.9
+ingress
+	ingressus	1.6.7
+	ingredi	1.8.6
+considera
+	considerato	1.6.8
+	considerandi	1.7.ext.6
+denuntiat
+	denuntiatus	1.6.8
+	denuntiata	1.7.6
+	denuntiatae	1.7.ext.4
+	denuntiatum	1.8.ext.9
+Lucan
+	Lucanis	1.6.8
+	Lucani	1.8.6
+	Lucanos	1.8.6
+repen
+	repente	1.6.8
+	repente	1.8.5
+ade
+	adeso	1.6.8
+	ademit	1.8.ext.4
+	adeptus	1.8.ext.4
+iocino
+	iocinore	1.6.8
+	iocinoris	1.6.9
+latebr
+	latebras	1.6.8
+	latere	1.8.ext.11
+retul
+	retulerunt	1.6.8
+	retulit	1.8.ext.11
+diligenti
+	diligentiusque	1.6.8
+	diligentior	1.7.ext.2
+serpenti
+	serpentium	1.6.8
+	serpentem	1.7.ext.1
+	serpentis	1.8.ext.19
+perfi
+	perfidi	1.6.8
+	perfidia	1.8.9
+error
+	erroris	1.6.9
+	errorem	1.6.12
+societ
+	societas	1.6.9
+	societatem	1.8.ext.17
+uoluntat
+	uoluntates	1.6.9
+	uoluntate	1.7.ext.1
+	uoluntatem	1.8.7
+inspect
+	inspectis	1.6.9
+	inspectis	1.8.2
+lae
+	laeta	1.6.9
+	laetus	1.7.ext.8
+	laeti	1.8.2
+	laeti	1.8.2
+apparui
+	apparuissent	1.6.9
+	apparet	1.6.12
+	apparuit	1.8.1
+	apparuit	1.8.ext.10
+conar
+	conaretur	1.6.9
+	conatur	1.7.8
+insequen
+	insequenti	1.6.9
+	insequitur	1.7.7
+circumuent
+	circumuentus	1.6.9
+	circumuento	1.7.ext.10
+attul
+	attulit	1.6.9
+	attulerunt	1.7.8
+Octaui
+	Octauius	1.6.10
+	Octauius	1.8.1
+abrup
+	abrupto	1.6.10
+	abruperat	1.8.10
+nequir
+	nequiret	1.6.10
+	nequiret	1.8.ext.19
+met
+	metus	1.6.10
+	metus	1.7.ext.2
+silenti
+	silentium	1.6.11
+	silentium	1.7.4
+	silentio	1.7.5
+plurim
+	plurimis	1.6.11
+	plurimum	1.8.ext.18
+euiden
+	euidentissimis	1.6.11
+	euidentiam	1.7.ext.10
+ict
+	ictibus	1.6.11
+	ictum	1.8.ext.2
+paludament
+	paludamentum	1.6.11
+	paludamento	1.8.8
+exeunt
+	exeuntibus	1.6.11
+	exeuntem	1.7.7
+alb
+	album	1.6.11
+	albis	1.8.1
+purpure
+	purpureum	1.6.11
+	purpurea	1.6.13
+	purpureo	1.8.8
+taci
+	taciti	1.6.11
+	tacitis	1.7.ext.1
+clamo
+	clamore	1.6.11
+	clamorem	1.6.12
+adcurre
+	adcurrere	1.6.11
+	adcursu	1.7.ext.10
+pi
+	pilo	1.6.11
+	pinnis	1.8.6
+	pilis	1.8.ext.15
+aliquan
+	aliquanto	1.6.11
+	aliquando	1.8.ext.2
+legion
+	legionum	1.6.11
+	legionibus	1.8.ext.19
+cruo
+	cruore	1.6.11
+	cruore	1.8.ext.19
+promiscu
+	promiscuas	1.6.11
+	promissa	1.7.ext.8
+cadauer
+	cadauerum	1.6.11
+	cadauera	1.8.5
+Iuppit
+	Iuppiter	1.6.12
+	Iuppiter	1.7.4
+abun
+	abunde	1.6.12
+	abunde	1.6.ext.1
+monuer
+	monuerat	1.6.12
+	monuerunt	1.6.ext.1
+obscuran
+	obscurando	1.6.12
+	obscuras	1.8.10
+nocturn
+	nocturnis	1.6.12
+	nocturni	1.7.ext.2
+	nocturna	1.7.ext.9
+inuict
+	inuictae	1.6.12
+	inuictae	1.7.ext.5
+is
+	ista	1.6.12
+	isdem	1.7.8
+	ista	1.8.ext.18
+aestimatio
+	aestimatione	1.6.12
+	aestimatio	1.8.7
+eleu
+	eleuat	1.6.12
+	eleuat	1.7.ext.2
+excelsior
+	excelsiores	1.6.12
+	excelsiorem	1.7.ext.1
+contraxer
+	contraxerat	1.6.12
+	contraxerat	1.6.ext.1
+delubr
+	delubris	1.6.12
+	delubri	1.6.12
+mur
+	muros	1.6.12
+	murto	1.8.2
+concurrer
+	concurreretur	1.6.12
+	concurrerunt	1.7.1
+	concurrerent	1.8.1
+edit
+	editum	1.6.12
+	editum	1.6.ext.1
+	editum	1.8.10
+palm
+	palmam	1.6.12
+	palmam	1.8.2
+Iu
+	Iuli	1.6.13
+	Iuli	1.7.2
+	Iulius	1.8.8
+priusqu
+	priusquam	1.6.13
+	priusquam	1.6.ext.1
+offerr
+	offerres	1.6.13
+	offert	1.8.8
+transitur
+	transiturus	1.6.13
+	transitus	1.8.2
+reppe
+	repperisse	1.6.13
+	repperit	1.8.ext.7
+erup
+	erupit	1.6.13
+	erupit	1.8.ext.2
+subtrahe
+	subtrahere	1.6.13
+	subtrahi	1.7.ext.10
+	subtrahi	1.8.12
+us
+	usus	1.6.ext.1
+	usus	1.8.2
+	usus	1.8.6
+	usum	1.8.ext.12
+	usum	1.8.ext.14
+inser
+	inserta	1.6.ext.1
+	inserendo	1.6.ext.3
+adfer
+	adferre	1.6.ext.1
+	adfuisse	1.8.6
+Ath
+	Athon	1.6.ext.1
+	Athenas	1.6.ext.1
+	Athenas	1.7.7
+	Atym	1.7.ext.4
+	Athenis	1.8.ext.2
+inuadend
+	inuadendae	1.6.ext.1
+	inuadendae	1.7.ext.1
+abstiner
+	abstineret	1.6.ext.1
+	abstineret	1.7.2
+sens
+	sensus	1.6.ext.1
+	sensit	1.7.ext.2
+	sensibus	1.8.ext.2
+Mid
+	Midae	1.6.ext.2
+	Midas	1.6.ext.2
+	Midae	1.6.ext.3
+	Midae	1.7.1
+subiec
+	subiecta	1.6.ext.2
+	subiectum	1.7.ext.6
+formic
+	formicae	1.6.ext.2
+	formae	1.8.1
+mortali
+	mortalium	1.6.ext.2
+	mortalium	1.8.2
+praedict
+	praedictio	1.6.ext.2
+	praedictum	1.8.10
+mune
+	munere	1.6.ext.2
+	munus	1.7.8
+Platon
+	Platonis	1.6.ext.3
+	Platonis	1.7.1
+doctrin
+	doctrinae	1.6.ext.3
+	doctrinam	1.8.ext.2
+ingen
+	ingenio	1.6.ext.3
+	ingentis	1.7.7
+	ingenii	1.7.ext.1
+	ingeni	1.7.ext.4
+	ingentis	1.7.ext.4
+	ingens	1.8.5
+	ingenti	1.8.6
+	ingenii	1.8.ext.18
+	ingenti	1.8.ext.19
+somn
+	somnum	1.7.1
+	somnum	1.7.1
+	somnio	1.7.2
+	somnique	1.7.2
+	somnio	1.7.2
+	somnium	1.7.3
+	somnio	1.7.3
+	somnium	1.7.4
+	somnum	1.7.5
+	somno	1.7.6
+	somni	1.7.7
+	somno	1.7.7
+	somno	1.7.7
+	somnium	1.7.8
+	somnium	1.7.ext.1
+	somnio	1.7.ext.2
+	somniorum	1.7.ext.2
+	somnio	1.7.ext.3
+	somnii	1.7.ext.5
+	somnium	1.7.ext.6
+	somni	1.7.ext.7
+	somnum	1.7.ext.8
+	somnio	1.7.ext.8
+	somnium	1.7.ext.10
+	somnis	1.7.ext.10
+	somnum	1.7.ext.10
+	somnique	1.8.init.
+imagin
+	imaginibus	1.7.1
+	imaginem	1.7.ext.1
+	imagine	1.7.ext.2
+	imagine	1.7.ext.2
+	imagine	1.7.ext.9
+Augus
+	Augusti	1.7.1
+	Augustum	1.7.2
+Artor
+	Artorio	1.7.1
+	Artori	1.7.2
+camp
+	campis	1.7.1
+	campi	1.7.5
+praecep
+	praecepit	1.7.1
+	praecepit	1.7.4
+moner
+	moneret	1.7.1
+	moneri	1.8.10
+proel
+	proelio	1.7.1
+	proelio	1.8.5
+interess
+	interesset	1.7.1
+	interesset	1.8.10
+lecti
+	lectica	1.7.1
+	lecticula	1.7.4
+putam
+	putamus	1.7.1
+	putet	1.8.ext.17
+natural
+	naturalem	1.7.2
+	naturae	1.8.ext.12
+confect
+	confectum	1.7.2
+	confecit	1.7.ext.4
+uulner
+	uulneribus	1.7.2
+	uulneribus	1.8.ext.18
+atrocita
+	atrocitate	1.7.2
+	atrocitas	1.7.6
+iunct
+	iunctos	1.7.2
+	iunctaque	1.8.1
+adit
+	aditum	1.7.2
+	aditum	1.7.ext.4
+	aditum	1.8.ext.2
+struxer
+	struxerat	1.7.2
+	struxerat	1.7.ext.3
+ead
+	eadem	1.7.3
+	eadem	1.7.7
+Deci
+	Decius	1.7.3
+	Decium	1.7.3
+Manli
+	Manlius	1.7.3
+	Manibus	1.7.3
+periculo
+	periculoso	1.7.3
+	periculum	1.7.4
+posit
+	positis	1.7.3
+	positis	1.8.2
+quaed
+	quaedam	1.7.3
+	quaedam	1.7.ext.6
+	quaedam	1.8.ext.1
+quiet
+	quietem	1.7.3
+	quietem	1.7.4
+	quietem	1.7.6
+	quietem	1.7.8
+	quietem	1.7.ext.2
+	quietem	1.7.ext.3
+	quietis	1.7.ext.4
+	quietis	1.7.ext.5
+	quietem	1.7.ext.6
+	quietem	1.8.2
+mat
+	matrique	1.7.3
+	mater	1.7.ext.7
+copi
+	copias	1.7.3
+	copia	1.7.ext.4
+	copias	1.8.1
+	copiis	1.8.6
+neut
+	neutro	1.7.3
+	neutra	1.8.1
+uerber
+	uerberibus	1.7.4
+	uerberibus	1.8.ext.19
+secutur
+	secuturum	1.7.4
+	secutus	1.7.7
+	secutus	1.7.ext.1
+uerit
+	ueritus	1.7.4
+	ueritus	1.7.ext.4
+corrept
+	correptus	1.7.4
+	correptis	1.8.ext.19
+interrogat
+	interrogatus	1.7.4
+	interrogatumque	1.7.7
+tribun
+	tribunal	1.7.4
+	tribunatum	1.7.6
+exposi
+	exposito	1.7.4
+	exponi	1.7.ext.5
+membr
+	membrorum	1.7.4
+	memor	1.7.ext.3
+firmita
+	firmitate	1.7.4
+	firmitate	1.7.ext.3
+inimic
+	inimicorum	1.7.5
+	inimica	1.7.ext.6
+region
+	regiones	1.7.5
+	regionem	1.8.10
+	regione	1.8.ext.19
+Mari
+	Marium	1.7.5
+	Mariana	1.7.5
+obui
+	obuium	1.7.5
+	obuium	1.7.ext.1
+	obuios	1.8.1
+dexter
+	dexteram	1.7.5
+	dexteram	1.7.ext.2
+monument
+	monumentum	1.7.5
+	monumentis	1.8.7
+inminent
+	inminentis	1.7.6
+	inminentis	1.7.ext.4
+	inminenti	1.7.ext.10
+	inminenti	1.8.ext.7
+huius
+	huiusce	1.7.7
+	huiusce	1.8.6
+existimau
+	existimauit	1.7.7
+	existimauitque	1.7.ext.1
+	existimauit	1.7.ext.2
+	existimauit	1.7.ext.4
+	existimauerat	1.7.ext.5
+	existimauit	1.8.1
+color
+	coloris	1.7.7
+	coloris	1.7.ext.6
+bar
+	barba	1.7.7
+	basi	1.8.11
+quisn
+	quisnam	1.7.7
+	quisnam	1.7.ext.6
+perterrit
+	perterritus	1.7.7
+	perterritus	1.8.8
+horren
+	horrendo	1.7.7
+	horrendo	1.8.10
+ecqu
+	ecquem	1.7.7
+	ecquid	1.8.ext.10
+habit
+	habitus	1.7.7
+	habitum	1.7.ext.6
+intrant
+	intrantem	1.7.7
+	intrantem	1.7.ext.6
+nemin
+	neminem	1.7.7
+	neminem	1.8.ext.7
+Hater
+	Haterii	1.7.8
+	Haterium	1.7.8
+retia
+	retiari	1.7.8
+	retiarius	1.7.8
+	retiario	1.7.8
+	retiarius	1.7.8
+poste
+	postero	1.7.8
+	postero	1.7.ext.6
+	postero	1.8.6
+	posteros	1.8.7
+	posterum	1.8.ext.3
+murmillo
+	murmillone	1.7.8
+	murmillone	1.7.8
+trucida
+	trucidari	1.7.8
+	trucidatum	1.7.ext.10
+interem
+	interemit	1.7.8
+	interempti	1.8.9
+Itali
+	Italiae	1.7.ext.1
+	Italiae	1.7.ext.6
+concita
+	concitato	1.7.ext.1
+	concitato	1.8.8
+tenebr
+	tenebris	1.7.ext.1
+	tenebrarum	1.8.init.
+Alexand
+	Alexander	1.7.ext.2
+	Alexandro	1.8.ext.10
+	Alexandri	1.8.ext.10
+Cassand
+	Cassandri	1.7.ext.2
+	Cassandri	1.7.ext.2
+pestifer
+	pestiferam	1.7.ext.2
+	pestifero	1.7.ext.10
+	pestifero	1.8.10
+	pestifer	1.8.10
+	pestifero	1.8.ext.5
+	pestifero	1.8.ext.19
+cognou
+	cognouit	1.7.ext.2
+	cognouit	1.7.ext.2
+	cognouit	1.7.ext.7
+postqu
+	postquam	1.7.ext.2
+	postquam	1.7.ext.6
+	postquam	1.8.1
+	postquam	1.8.2
+	postquam	1.8.12
+Antipat
+	Antipatri	1.7.ext.2
+	Antipater	1.8.ext.16
+Simoni
+	Simonide	1.7.ext.3
+	Simonides	1.8.ext.7
+salutar
+	salutarem	1.7.ext.3
+	salutare	1.8.ext.18
+sepultur
+	sepulturae	1.7.ext.3
+	sepultura	1.8.10
+remans
+	remansit	1.7.ext.3
+	remanserat	1.8.2
+fluct
+	fluctibus	1.7.ext.3
+	fluctus	1.8.ext.11
+	fluctus	1.8.ext.11
+ignot
+	ignotis	1.7.ext.3
+	ignotae	1.8.ext.18
+Croe
+	Croesi	1.7.ext.4
+	Croesus	1.7.ext.4
+tel
+	telorum	1.7.ext.4
+	telorum	1.8.ext.19
+necessit
+	necessitas	1.7.ext.4
+	necessitatis	1.7.ext.5
+	necessitas	1.8.ext.10
+creb
+	crebra	1.7.ext.4
+	crebris	1.8.ext.19
+inusita
+	inusitatoque	1.7.ext.4
+	inusitato	1.8.2
+Cyr
+	Cyrus	1.7.ext.5
+	Cyrum	1.7.ext.5
+matern
+	maternus	1.7.ext.5
+	maternae	1.8.4
+Mandan
+	Mandanen	1.7.ext.5
+	Mandanes	1.7.ext.5
+Himer
+	Himerae	1.7.ext.6
+	Himeraeorum	1.7.ext.6
+sed
+	sedibus	1.7.ext.6
+	sedis	1.8.2
+	sedare	1.8.ext.18
+libertat
+	libertatum	1.7.ext.6
+	libertatem	1.8.5
+cognit
+	cognitum	1.7.ext.6
+	cognitum	1.8.1
+	cognitum	1.8.6
+	cognitum	1.8.7
+nuntiant
+	nuntiantem	1.7.ext.8
+	nuntiare	1.8.1
+decept
+	deceptus	1.7.ext.8
+	decepit	1.8.2
+impetr
+	impetrat	1.7.ext.10
+	impetum	1.8.8
+	impetrasse	1.8.ext.2
+facient
+	facientes	1.7.ext.10
+	facientem	1.8.8
+tabern
+	tabernam	1.7.ext.10
+	tabernamque	1.7.ext.10
+tamqu
+	tamquam	1.7.ext.10
+	tamquam	1.8.1
+caupo
+	caupone	1.7.ext.10
+	cauponemque	1.7.ext.10
+miracu
+	miracula	1.8.init.
+	miraculum	1.8.5
+	miraculum	1.8.9
+	miraculorum	1.8.11
+	miraculi	1.8.ext.11
+	miraculis	1.8.ext.12
+Regill
+	Regillum	1.8.1
+	Regios	1.8.ext.11
+Cast
+	Castor	1.8.1
+	Castorem	1.8.1
+Poll
+	Pollux	1.8.1
+	Pollucem	1.8.1
+remed
+	remedii	1.8.2
+	remedio	1.8.2
+inuitau
+	inuitauerunt	1.8.2
+	inuitus	1.8.ext.8
+subsecut
+	subsecutum	1.8.2
+	subsecuta	1.8.ext.10
+trirem
+	triremem	1.8.2
+	triremem	1.8.2
+uestibu
+	uestibulo	1.8.2
+	uestibulo	1.8.11
+uoluntari
+	uoluntarius	1.8.2
+	uoluntaria	1.8.ext.3
+	uoluntarium	1.8.ext.10
+translatu
+	translaturi	1.8.2
+	translatos	1.8.7
+credent
+	credentes	1.8.2
+	credenda	1.8.ext.12
+excid
+	excidio	1.8.4
+	excidium	1.8.6
+retine
+	retinere	1.8.5
+	retinens	1.8.ext.2
+adic
+	adicitur	1.8.5
+	adicit	1.8.ext.19
+Fabrici
+	Fabricius	1.8.6
+	Fabricii	1.8.6
+ancipi
+	ancipiti	1.8.6
+	ancipiti	1.8.7
+euas
+	euasit	1.8.6
+	euasit	1.8.ext.4
+uall
+	uallum	1.8.6
+	uallarem	1.8.6
+Stat
+	Statio	1.8.6
+	Statilio	1.8.6
+praemi
+	praemium	1.8.6
+	praemium	1.8.ext.4
+parit
+	pariter	1.8.6
+	pariter	1.8.ext.17
+	pariter	1.8.ext.19
+Alb
+	Albam	1.8.7
+	Albam	1.8.7
+percep
+	percepto	1.8.7
+	percepta	1.8.ext.2
+nob
+	nobis	1.8.8
+	nobilem	1.8.10
+exting
+	extingui	1.8.8
+	extinguere	1.8.ext.7
+coeg
+	coegit	1.8.10
+	coegit	1.8.ext.5
+Euboe
+	Euboeae	1.8.10
+	Euboeae	1.8.10
+Lam
+	Lamia	1.8.11
+	Lamiae	1.8.12
+elat
+	elatus	1.8.12
+	elatus	1.8.ext.5
+admirabil
+	admirabilia	1.8.ext.1
+	admirabilis	1.8.ext.5
+	admirabilius	1.8.ext.15
+ro
+	rogo	1.8.ext.1
+	rogo	1.8.ext.5
+	rogo	1.8.ext.10
+erudi
+	eruditissimus	1.8.ext.2
+	eruditissimis	1.8.ext.18
+percus
+	percussi	1.8.ext.2
+	percussisset	1.8.ext.5
+Atheniens
+	Atheniensis	1.8.ext.3
+	Athenienses	1.8.ext.15
+inopina
+	inopinati	1.8.ext.3
+	inopinato	1.8.ext.5
+donau
+	donauit	1.8.ext.4
+	donauerit	1.8.ext.18
+elaps
+	elapsus	1.8.ext.5
+	elapsum	1.8.ext.15
+consiste
+	consistere	1.8.ext.5
+	consistit	1.8.ext.18
+Scop
+	Scopam	1.8.ext.7
+	Scopas	1.8.ext.7
+quadrig
+	quadrigae	1.8.ext.9
+	quadrigam	1.8.ext.9
+denti
+	dentium	1.8.ext.12
+	dentium	1.8.ext.13
+aequalit
+	aequaliter	1.8.ext.12
+	aequalem	1.8.ext.17
+capre
+	capreas	1.8.ext.18
+	capras	1.8.ext.18
