@@ -1,3 +1,7 @@
+// Christine Perinchery
+// 28 November 2014
+// Latin 375/798
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
@@ -20,6 +24,7 @@ public class main {
 		try {
 			inFile = new BufferedReader(new FileReader("Latin.txt"));
 		} catch (FileNotFoundException e) {
+			//May want some sort of Usage display?
 			e.printStackTrace();
 		}
 		//Read in the file
@@ -60,6 +65,7 @@ public class main {
 			
 		} catch (IOException e) {
 			e.printStackTrace();
+			//May want some sort of Usage displayed?
 		}finally{
 			try{
 				inFile.close();
@@ -71,6 +77,7 @@ public class main {
 		
 	}
 	
+	// Checks to see if the word has been found before
 	public static boolean wordIsInBaseWordList(String w, String s){
 		String wordMagicked = BaseWord.wordMagic(w);
 		for(int i = 0; i< list.size(); i++){
@@ -78,7 +85,7 @@ public class main {
 			int l = baseWord.length();
 			if(!wordMagicked.equals("")){
 				try{
-					if(Math.abs(l-wordMagicked.length())<3){
+					if(Math.abs(l-wordMagicked.length())<2){
 						if(wordMagicked.startsWith(baseWord)||baseWord.startsWith(wordMagicked)){
 							list.get(i).addToList(w, s);
 							return true;

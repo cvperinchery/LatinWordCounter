@@ -21,6 +21,9 @@ public class BaseWord {
 		return ((BaseWord) o).compareWord == this.compareWord;
 	}
 	
+	//This takes in a String and returns the base of the word 
+	// any endings. This does not take out the prefix if the
+	// word has one. 
 	static public String wordMagic(String word){
 		String wordDuplicated = word;
 		if(word.endsWith("que")){
@@ -35,11 +38,10 @@ public class BaseWord {
 				word = word.substring(0, word.length() - 5);
 		}else if(word.endsWith("orum") || word.endsWith("arum") || word.endsWith("ibus") || word.endsWith("tur") || word.endsWith("erit")){
 			word = word.substring(0, word.length() - 4);
-//		}else if(word){
-//			word = word.substring(0, word.length() - 3);
 		}else{
 			word = word.substring(0, word.length() -2);
 		}
+		//if after the trimming there is nothing left, then return the original word
 		if(word.equals("")){
 			return wordDuplicated;
 		}
@@ -47,10 +49,15 @@ public class BaseWord {
 		
 	}
 	
+	// This adds the word to the Word List with 
+	// its base word. 
 	public void addToList(String w, String s){
 		diffConjugations.add(new Word(w, s));
 	}
 	
+	//Prints out and returns a String of the 
+	// base word with each of its words with
+	// their corresponding section
 	public String printDiffConj(){
 		System.out.println(compareWord);
 		String out = compareWord + "\n";
